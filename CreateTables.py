@@ -4,7 +4,7 @@ import sqlite3
 logging.basicConfig(level=logging.DEBUG,
                 format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
                 datefmt='%d %b %Y %H:%M:%S',
-                filename='HKEX.log',
+                filename='TradeX.log',
                 filemode='w')
 
 logging.info('CreateTable Starts Here.')
