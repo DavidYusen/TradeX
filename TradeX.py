@@ -1,5 +1,5 @@
 import logging
-import InsertHgtTradeDetails as hgt
+import InsertHKTradeDetails as hk
 import GetDataFromTushare as tu
 
 
@@ -19,7 +19,7 @@ logging.getLogger('').addHandler(console)
 # df2 = df1.ix[:,[3,8]]
 # plt.show(df2.plot(kind = 'box'))
 # Main Function here
-# hgt.insert_data_by_date('20171025')
-# insert_data_by_period(20171023, 20171024)
+# hk.insert_data_by_date('20171025')
+hk.insert_data_by_period(20171025, 20171027)
 # print(is_deal_date('2017-10-22'))
 # tu.RefreshData()
