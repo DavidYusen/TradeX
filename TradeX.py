@@ -9,12 +9,17 @@ if __name__ == '__main__':
     logging.info('Main function starts here')
 
     # Refresh basic data
-    # tu.RefreshData()
+    tu.RefreshData()
+
+    # Insert HGT trade data by period
+    hk.insert_data_by_period(20171027, 20171104)
+
+    # Refresh market data
+    tu.get_market_data()
 
     # Insert HGT trade data by date
     # hk.insert_data_by_date('20171025')
 
-    # Insert HGT trade data by period
-    # hk.insert_data_by_period(20171027, 20171104)
+
 
     logging.info('Main function ends here')

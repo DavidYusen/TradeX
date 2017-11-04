@@ -2,7 +2,7 @@ import logging
 import inspect
 
 def set_log_format():
-    logging.basicConfig(level=logging.INFO,
+    logging.basicConfig(level=logging.DEBUG,
                         format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
                         datefmt='%d %b %Y %H:%M:%S',
                         filename='TradeX.log',

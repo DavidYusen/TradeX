@@ -1,6 +1,7 @@
 import tushare as ts
 import pandas as pd
 import sqlite3
+import logging
 
 import CommonFunctions as cf
 
@@ -25,21 +26,32 @@ def RefreshData():
 
     cf.log_function_end()
 
-def get_deal_data():
+def get_market_data():
     cf.log_function_start()
 
     dbconnection = sqlite3.connect('TradeDB.db')
     dbcursor = dbconnection.cursor()
-    dbcursor.execute("select distinct(StockCode) from dailytrade where market='SSE Northbound' or market='SZSE Northbound'")
-    result = dbcursor.fetchone()
 
-    while result is not None:
-        pass
+    dbcursor.execute(
+        "select distinct(StockCode) from dailytrade where market='SSE Northbound' or market='SZSE Northbound'")
+    results = dbcursor.fetchall()
+
+    if results is not None:
+        for result in results:
+            stockcode = str(result[0])
+            while len(stockcode) < 6:
+                stockcode = '0' + stockcode
+
+            try:
+                market_data = ts.get_k_data(stockcode, start='2017-06-01',)
+                pd.io.sql.to_sql(market_data, 'MarketData', dbconnection, schema='TradeDB', if_exists='append')
+            except Exception as e:
+                logging.error('Errors:', e)
+            finally:
+                logging.info('Get %s market data is done', stockcode)
 
     dbcursor.close()
     dbconnection.commit()
     dbconnection.close()
-    deal_data = ts.get_k_data()
-    print(deal_data)
 
     cf.log_function_end()
