@@ -1,22 +1,21 @@
 import logging
 import sqlite3
 
-logging.basicConfig(level=logging.DEBUG,
-                format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
-                datefmt='%d %b %Y %H:%M:%S',
-                filename='TradeX.log',
-                filemode='w')
+import CommonFunctions as cf
 
-logging.info('CreateTable Starts Here.')
+def create_tables():
+    cf.log_function_start()
 
-dbconnection = sqlite3.connect('TradeDB.db')
-dbcursor = dbconnection.cursor()
+    dbconnection = sqlite3.connect('TradeDB.db')
+    dbcursor = dbconnection.cursor()
 
-# create DailyTrade
-dbcursor.execute(
-    'create table DailyTrade (Date varchar(20), Market varchar(20), Rank INTEGER, StockCode INTEGER, StockName varchar(20), BuyTurnover INTEGER, SellTurnover INTEGER, TotalTurnOver INTEGER, NetBuyTurnover INTEGER)')
-dbcursor.execute('CREATE UNIQUE INDEX p1 ON DailyTrade(Date, Market, StockCode);')
+    # create DailyTrade
+    dbcursor.execute(
+        'create table DailyTrade (Date varchar(20), Market varchar(20), Rank INTEGER, StockCode INTEGER, StockName varchar(20), BuyTurnover INTEGER, SellTurnover INTEGER, TotalTurnOver INTEGER, NetBuyTurnover INTEGER)')
+    dbcursor.execute('CREATE UNIQUE INDEX p1 ON DailyTrade(Date, Market, StockCode);')
 
-dbcursor.close()
-dbconnection.commit()
-dbconnection.close()
+    dbcursor.close()
+    dbconnection.commit()
+    dbconnection.close()
+
+    cf.log_function_end()

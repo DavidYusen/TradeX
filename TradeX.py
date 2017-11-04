@@ -1,25 +1,20 @@
 import logging
+
 import InsertHKTradeDetails as hk
 import GetDataFromTushare as tu
+import CommonFunctions as cf
 
+if __name__ == '__main__':
+    cf.set_log_format()
+    logging.info('Main function starts here')
 
-logging.basicConfig(level=logging.DEBUG,
-                    format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
-                    datefmt='%d %b %Y %H:%M:%S',
-                    filename='TradeX.log',
-                    filemode='w')
+    # Refresh basic data
+    # tu.RefreshData()
 
-console = logging.StreamHandler()
-console.setLevel(logging.DEBUG)
-formatter = logging.Formatter('%(name)-12s: %(levelname)-8s %(message)s')
-console.setFormatter(formatter)
-logging.getLogger('').addHandler(console)
+    # Insert HGT trade data by date
+    # hk.insert_data_by_date('20171025')
 
-# df1 = pd.read_sql("select * from DailyTrade where Market='SSE Northbound'",sqlite3.connect('TradeDB.db'))
-# df2 = df1.ix[:,[3,8]]
-# plt.show(df2.plot(kind = 'box'))
-# Main Function here
-# hk.insert_data_by_date('20171025')
-hk.insert_data_by_period(20171025, 20171027)
-# print(is_deal_date('2017-10-22'))
-# tu.RefreshData()
+    # Insert HGT trade data by period
+    # hk.insert_data_by_period(20171027, 20171104)
+
+    logging.info('Main function ends here')

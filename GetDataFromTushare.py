@@ -2,8 +2,11 @@ import tushare as ts
 import pandas as pd
 import sqlite3
 
+import CommonFunctions as cf
+
 
 def RefreshData():
+    cf.log_function_start()
     dbconnection = sqlite3.connect('TradeDB.db')
     dbcursor = dbconnection.cursor()
 
@@ -19,3 +22,24 @@ def RefreshData():
     dbcursor.close()
     dbconnection.commit()
     dbconnection.close()
+
+    cf.log_function_end()
+
+def get_deal_data():
+    cf.log_function_start()
+
+    dbconnection = sqlite3.connect('TradeDB.db')
+    dbcursor = dbconnection.cursor()
+    dbcursor.execute("select distinct(StockCode) from dailytrade where market='SSE Northbound' or market='SZSE Northbound'")
+    result = dbcursor.fetchone()
+
+    while result is not None:
+        pass
+
+    dbcursor.close()
+    dbconnection.commit()
+    dbconnection.close()
+    deal_data = ts.get_k_data()
+    print(deal_data)
+
+    cf.log_function_end()
