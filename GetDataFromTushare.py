@@ -26,7 +26,7 @@ def RefreshData():
 
     cf.log_function_end()
 
-def get_market_data():
+def refresh_market_data():
     cf.log_function_start()
 
     dbconnection = sqlite3.connect('TradeDB.db')
