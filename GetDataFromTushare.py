@@ -3,31 +3,58 @@ import pandas as pd
 import sqlite3
 import logging
 
-import CommonFunctions as cf
+logger = logging.getLogger("TradeX."+__name__)
 
-
-def RefreshData():
-    cf.log_function_start()
+def refresh_holiday_data():
+    logger.debug("Enter refresh_holiday_data")
     dbconnection = sqlite3.connect('TradeDB.db')
     dbcursor = dbconnection.cursor()
 
     trade_date = ts.trade_cal()
     pd.io.sql.to_sql(trade_date, 'Holiday', dbconnection, schema='TradeDB', if_exists='replace')
-
-    stock_basics = ts.get_stock_basics()
-    pd.io.sql.to_sql(stock_basics, 'StockBasics', dbconnection, schema='TradeDB', if_exists='replace')
-
-    season_report = ts.get_report_data(2017,3)
-    pd.io.sql.to_sql(season_report, 'SeasonReport', dbconnection, schema='TradeDB', if_exists='replace')
+    logger.info("refresh holiday data successfully in TradeDB")
 
     dbcursor.close()
     dbconnection.commit()
     dbconnection.close()
 
-    cf.log_function_end()
+    logger.debug("Exit refresh_holiday_data")
+
+
+def refresh_stock_basics_data():
+    logger.debug("Enter refresh_stock_basics_data")
+    dbconnection = sqlite3.connect('TradeDB.db')
+    dbcursor = dbconnection.cursor()
+
+    stock_basics = ts.get_stock_basics()
+    pd.io.sql.to_sql(stock_basics, 'StockBasics', dbconnection, schema='TradeDB', if_exists='replace')
+    logger.info("refresh refresh_stock_basics_data successfully in TradeDB")
+
+    dbcursor.close()
+    dbconnection.commit()
+    dbconnection.close()
+
+    logger.debug("Exit refresh_stock_basics_data")
+
+
+def refresh_season_report_data():
+    logger.debug("Enter refresh_season_report_data")
+    dbconnection = sqlite3.connect('TradeDB.db')
+    dbcursor = dbconnection.cursor()
+
+    season_report = ts.get_report_data(2018,1)
+    pd.io.sql.to_sql(season_report, 'SeasonReport', dbconnection, schema='TradeDB', if_exists='replace')
+    logger.info("refresh refresh_season_report_data successfully in TradeDB")
+
+    dbcursor.close()
+    dbconnection.commit()
+    dbconnection.close()
+
+    logger.debug("Exit refresh_season_report_data")
+
 
 def refresh_market_data():
-    cf.log_function_start()
+    logger.info("Enter refresh_market_data")
 
     dbconnection = sqlite3.connect('TradeDB.db')
     dbcursor = dbconnection.cursor()
@@ -54,4 +81,4 @@ def refresh_market_data():
     dbconnection.commit()
     dbconnection.close()
 
-    cf.log_function_end()
+    logger.info("Exit refresh_market_data")

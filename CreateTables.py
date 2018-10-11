@@ -2,9 +2,10 @@ import logging
 import sqlite3
 
 import CommonFunctions as cf
+logger = logging.getLogger("TradeX."+__name__)
 
 def create_tables():
-    cf.log_function_start()
+    logger.info("Enter create_tables")
 
     dbconnection = sqlite3.connect('TradeDB.db')
     dbcursor = dbconnection.cursor()
@@ -18,4 +19,4 @@ def create_tables():
     dbconnection.commit()
     dbconnection.close()
 
-    cf.log_function_end()
+    logger.info("Exit create_tables")

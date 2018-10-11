@@ -5,11 +5,10 @@ import sqlite3
 import time
 from urllib import request
 
-import CommonFunctions as cf
-
+logger = logging.getLogger("TradeX."+"__name__")
 
 def is_deal_date(dealdate):
-    cf.log_function_start()
+    logger.info("Enter is_deal_date")
 
     dbconnection = sqlite3.connect('TradeDB.db')
     dbcursor = dbconnection.cursor()
@@ -22,7 +21,7 @@ def is_deal_date(dealdate):
     dbconnection.commit()
     dbconnection.close()
 
-    cf.log_function_end()
+    logger.info("Exit is_deal_date")
 
     if result[0] == 1:
         return True
@@ -30,13 +29,13 @@ def is_deal_date(dealdate):
         return False
 
 def insert_data_by_date(dealdate):
-    cf.log_function_start()
+    logger.info("Enter insert_data_by_date")
 
     url = 'http://sc.hkex.com.hk/TuniS/www.hkex.com.hk/chi/csm/DailyStat/data_tab_daily_MODE1c.js?MODE2'
     # thedate = time.strftime("%Y%m%d")
     thetimestamp = int(round(time.time() * 1000))
     url = url.replace("MODE1", dealdate).replace('MODE2', str(thetimestamp))
-    logging.debug('url generated for is %s:' % url)
+    logger.debug('url generated for is %s:' % url)
 
     try:
         with request.urlopen(url) as f:
@@ -45,9 +44,9 @@ def insert_data_by_date(dealdate):
         textdata = json.loads(jsondata)
         # textdata is a list, each one is a dict
     except Exception as e:
-        logging.error('Errors:', e)
+        logger.error('Errors:', e)
     finally:
-        logging.info('Get data from url for date %s is done', dealdate)
+        logger.info('Get data from url for date %s is done', dealdate)
 
 
     try:
@@ -77,13 +76,13 @@ def insert_data_by_date(dealdate):
         dbconnection.close()
 
     except Exception as e:
-        logging.error('Errors:', e)
+        logger.error('Errors:', e)
     finally:
-        logging.info('Insert HK trade data for date %s is done', dealdate)
-        cf.log_function_end()
+        logger.info('Insert HK trade data for date %s is done', dealdate)
+        logger.info("Exit insert_data_by_date")
 
 def insert_data_by_period(istartdate, ienddate):
-    cf.log_function_start()
+    logger.info("Enter insert_data_by_period")
 
     startdate = datetime.datetime.strptime(str(istartdate), "%Y%m%d")
     enddate = datetime.datetime.strptime(str(ienddate), "%Y%m%d")
@@ -94,4 +93,4 @@ def insert_data_by_period(istartdate, ienddate):
             insert_data_by_date(dealdate.strftime("%Y%m%d"))
         dealdate = dealdate + datetime.timedelta(days=1)
 
-    cf.log_function_end()
+    logger.info("Exit insert_data_by_period")
