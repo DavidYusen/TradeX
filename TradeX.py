@@ -22,22 +22,28 @@ logger.addHandler(console)
 if __name__ == '__main__':
     logger.info('Main function starts here')
 
-    #更新节假日数据
+    # # 更新节假日数据
     # tu.refresh_holiday_data()
-
-    #更新季报数据
+    # #
+    # # # 更新季报数据
     # tu.refresh_season_report_data()
-
-    #更新股票基本信息
+    # #
+    # # # 更新股票基本信息
     # tu.refresh_stock_basics_data()
-
+    # #
     # Insert HGT trade data by period
-    hk.insert_data_by_period(20181010, 20181011)
-
+    # hk.insert_data_by_period(20190820, 20190825)
+    #
     # Insert HGT trade data by date
-    # hk.insert_data_by_date('20180827')
+    # hk.insert_data_by_date('20190826')
 
     # Refresh market data
     # tu.refresh_market_data()
+
+    # Insert tushare.pro daily data
+    # tu.insert_pro_daily_by_period(20190101, 2090827)
+
+    # Test ma
+    tu.testma()
 
     logger.info('Main function ends here')

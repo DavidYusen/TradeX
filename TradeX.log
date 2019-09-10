@@ -1,0 +1,1749 @@
+[2019-03-28 09:50:42,920] - TradeX - INFO - Main function starts here
+[2019-03-28 09:50:42,921] - TradeX.__name__ - INFO - Enter insert_data_by_period
+[2019-03-28 09:50:42,926] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:42,947] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:42,947] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:43,185] - TradeX.__name__ - INFO - Get data from url for date 20181011 is done
+[2019-03-28 09:50:43,205] - TradeX.__name__ - INFO - Insert HK trade data for date 20181011 is done
+[2019-03-28 09:50:43,206] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:43,207] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:43,215] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:43,216] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:43,497] - TradeX.__name__ - INFO - Get data from url for date 20181012 is done
+[2019-03-28 09:50:43,510] - TradeX.__name__ - INFO - Insert HK trade data for date 20181012 is done
+[2019-03-28 09:50:43,511] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:43,511] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:43,514] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:43,514] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:43,517] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:43,517] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:43,520] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:43,520] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:43,910] - TradeX.__name__ - INFO - Get data from url for date 20181015 is done
+[2019-03-28 09:50:43,930] - TradeX.__name__ - INFO - Insert HK trade data for date 20181015 is done
+[2019-03-28 09:50:43,931] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:43,932] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:43,939] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:43,940] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:44,642] - TradeX.__name__ - INFO - Get data from url for date 20181016 is done
+[2019-03-28 09:50:44,662] - TradeX.__name__ - INFO - Insert HK trade data for date 20181016 is done
+[2019-03-28 09:50:44,663] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:44,663] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:44,670] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:44,671] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:45,100] - TradeX.__name__ - INFO - Get data from url for date 20181017 is done
+[2019-03-28 09:50:45,102] - TradeX.__name__ - INFO - Insert HK trade data for date 20181017 is done
+[2019-03-28 09:50:45,103] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:45,103] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:45,111] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:45,112] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:45,861] - TradeX.__name__ - INFO - Get data from url for date 20181018 is done
+[2019-03-28 09:50:45,881] - TradeX.__name__ - INFO - Insert HK trade data for date 20181018 is done
+[2019-03-28 09:50:45,881] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:45,882] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:45,889] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:45,890] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:46,368] - TradeX.__name__ - INFO - Get data from url for date 20181019 is done
+[2019-03-28 09:50:46,389] - TradeX.__name__ - INFO - Insert HK trade data for date 20181019 is done
+[2019-03-28 09:50:46,389] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:46,389] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:46,398] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:46,398] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:46,407] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:46,407] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:46,414] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:46,416] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:47,061] - TradeX.__name__ - INFO - Get data from url for date 20181022 is done
+[2019-03-28 09:50:47,084] - TradeX.__name__ - INFO - Insert HK trade data for date 20181022 is done
+[2019-03-28 09:50:47,084] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:47,085] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:47,093] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:47,094] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:47,639] - TradeX.__name__ - INFO - Get data from url for date 20181023 is done
+[2019-03-28 09:50:47,659] - TradeX.__name__ - INFO - Insert HK trade data for date 20181023 is done
+[2019-03-28 09:50:47,660] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:47,661] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:47,669] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:47,670] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:48,184] - TradeX.__name__ - INFO - Get data from url for date 20181024 is done
+[2019-03-28 09:50:48,206] - TradeX.__name__ - INFO - Insert HK trade data for date 20181024 is done
+[2019-03-28 09:50:48,207] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:48,207] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:48,215] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:48,216] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:48,499] - TradeX.__name__ - INFO - Get data from url for date 20181025 is done
+[2019-03-28 09:50:48,520] - TradeX.__name__ - INFO - Insert HK trade data for date 20181025 is done
+[2019-03-28 09:50:48,522] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:48,522] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:48,529] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:48,529] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:49,172] - TradeX.__name__ - INFO - Get data from url for date 20181026 is done
+[2019-03-28 09:50:49,195] - TradeX.__name__ - INFO - Insert HK trade data for date 20181026 is done
+[2019-03-28 09:50:49,196] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:49,196] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:49,205] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:49,206] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:49,215] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:49,216] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:49,224] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:49,225] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:49,826] - TradeX.__name__ - INFO - Get data from url for date 20181029 is done
+[2019-03-28 09:50:49,849] - TradeX.__name__ - INFO - Insert HK trade data for date 20181029 is done
+[2019-03-28 09:50:49,849] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:49,850] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:49,858] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:49,860] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:51,458] - TradeX.__name__ - INFO - Get data from url for date 20181030 is done
+[2019-03-28 09:50:51,479] - TradeX.__name__ - INFO - Insert HK trade data for date 20181030 is done
+[2019-03-28 09:50:51,480] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:51,480] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:51,488] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:51,489] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:52,096] - TradeX.__name__ - INFO - Get data from url for date 20181031 is done
+[2019-03-28 09:50:52,117] - TradeX.__name__ - INFO - Insert HK trade data for date 20181031 is done
+[2019-03-28 09:50:52,117] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:52,118] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:52,126] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:52,126] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:52,481] - TradeX.__name__ - INFO - Get data from url for date 20181101 is done
+[2019-03-28 09:50:52,504] - TradeX.__name__ - INFO - Insert HK trade data for date 20181101 is done
+[2019-03-28 09:50:52,505] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:52,505] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:52,514] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:52,514] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:53,017] - TradeX.__name__ - INFO - Get data from url for date 20181102 is done
+[2019-03-28 09:50:53,039] - TradeX.__name__ - INFO - Insert HK trade data for date 20181102 is done
+[2019-03-28 09:50:53,039] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:53,040] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:53,048] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:53,049] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:53,056] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:53,057] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:53,069] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:53,069] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:53,948] - TradeX.__name__ - INFO - Get data from url for date 20181105 is done
+[2019-03-28 09:50:53,959] - TradeX.__name__ - INFO - Insert HK trade data for date 20181105 is done
+[2019-03-28 09:50:53,959] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:53,959] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:53,962] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:53,962] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:54,589] - TradeX.__name__ - INFO - Get data from url for date 20181106 is done
+[2019-03-28 09:50:54,611] - TradeX.__name__ - INFO - Insert HK trade data for date 20181106 is done
+[2019-03-28 09:50:54,611] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:54,612] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:54,620] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:54,620] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:55,044] - TradeX.__name__ - INFO - Get data from url for date 20181107 is done
+[2019-03-28 09:50:55,065] - TradeX.__name__ - INFO - Insert HK trade data for date 20181107 is done
+[2019-03-28 09:50:55,065] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:55,066] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:55,074] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:55,074] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:55,994] - TradeX.__name__ - INFO - Get data from url for date 20181108 is done
+[2019-03-28 09:50:56,016] - TradeX.__name__ - INFO - Insert HK trade data for date 20181108 is done
+[2019-03-28 09:50:56,017] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:56,017] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:56,026] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:56,026] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:56,927] - TradeX.__name__ - INFO - Get data from url for date 20181109 is done
+[2019-03-28 09:50:56,948] - TradeX.__name__ - INFO - Insert HK trade data for date 20181109 is done
+[2019-03-28 09:50:56,948] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:56,949] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:56,957] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:56,958] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:56,965] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:56,965] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:56,973] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:56,974] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:57,539] - TradeX.__name__ - INFO - Get data from url for date 20181112 is done
+[2019-03-28 09:50:57,552] - TradeX.__name__ - INFO - Insert HK trade data for date 20181112 is done
+[2019-03-28 09:50:57,552] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:57,552] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:57,554] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:57,555] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:58,122] - TradeX.__name__ - INFO - Get data from url for date 20181113 is done
+[2019-03-28 09:50:58,144] - TradeX.__name__ - INFO - Insert HK trade data for date 20181113 is done
+[2019-03-28 09:50:58,145] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:58,145] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:58,154] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:58,154] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:50:58,688] - TradeX.__name__ - INFO - Get data from url for date 20181114 is done
+[2019-03-28 09:50:58,710] - TradeX.__name__ - INFO - Insert HK trade data for date 20181114 is done
+[2019-03-28 09:50:58,711] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:50:58,711] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:50:58,719] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:50:58,720] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:08,206] - TradeX.__name__ - INFO - Get data from url for date 20181115 is done
+[2019-03-28 09:51:08,227] - TradeX.__name__ - INFO - Insert HK trade data for date 20181115 is done
+[2019-03-28 09:51:08,227] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:08,228] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:08,236] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:08,237] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:08,599] - TradeX.__name__ - INFO - Get data from url for date 20181116 is done
+[2019-03-28 09:51:08,615] - TradeX.__name__ - INFO - Insert HK trade data for date 20181116 is done
+[2019-03-28 09:51:08,615] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:08,615] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:08,620] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:08,620] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:08,625] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:08,626] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:08,630] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:08,631] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:10,093] - TradeX.__name__ - INFO - Get data from url for date 20181119 is done
+[2019-03-28 09:51:10,110] - TradeX.__name__ - INFO - Insert HK trade data for date 20181119 is done
+[2019-03-28 09:51:10,111] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:10,112] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:10,117] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:10,117] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:10,752] - TradeX.__name__ - INFO - Get data from url for date 20181120 is done
+[2019-03-28 09:51:10,773] - TradeX.__name__ - INFO - Insert HK trade data for date 20181120 is done
+[2019-03-28 09:51:10,774] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:10,774] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:10,783] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:10,784] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:11,213] - TradeX.__name__ - INFO - Get data from url for date 20181121 is done
+[2019-03-28 09:51:11,233] - TradeX.__name__ - INFO - Insert HK trade data for date 20181121 is done
+[2019-03-28 09:51:11,233] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:11,234] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:11,241] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:11,241] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:11,596] - TradeX.__name__ - INFO - Get data from url for date 20181122 is done
+[2019-03-28 09:51:11,623] - TradeX.__name__ - INFO - Insert HK trade data for date 20181122 is done
+[2019-03-28 09:51:11,624] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:11,625] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:11,636] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:11,637] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:12,351] - TradeX.__name__ - INFO - Get data from url for date 20181123 is done
+[2019-03-28 09:51:12,367] - TradeX.__name__ - INFO - Insert HK trade data for date 20181123 is done
+[2019-03-28 09:51:12,368] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:12,369] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:12,375] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:12,377] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:12,382] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:12,383] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:12,390] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:12,391] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:12,569] - TradeX.__name__ - INFO - Get data from url for date 20181126 is done
+[2019-03-28 09:51:12,598] - TradeX.__name__ - INFO - Insert HK trade data for date 20181126 is done
+[2019-03-28 09:51:12,599] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:12,600] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:12,618] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:12,619] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:13,298] - TradeX.__name__ - INFO - Get data from url for date 20181127 is done
+[2019-03-28 09:51:13,321] - TradeX.__name__ - INFO - Insert HK trade data for date 20181127 is done
+[2019-03-28 09:51:13,322] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:13,322] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:13,328] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:13,329] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:13,672] - TradeX.__name__ - INFO - Get data from url for date 20181128 is done
+[2019-03-28 09:51:13,697] - TradeX.__name__ - INFO - Insert HK trade data for date 20181128 is done
+[2019-03-28 09:51:13,698] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:13,699] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:13,707] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:13,708] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:14,129] - TradeX.__name__ - INFO - Get data from url for date 20181129 is done
+[2019-03-28 09:51:14,141] - TradeX.__name__ - INFO - Insert HK trade data for date 20181129 is done
+[2019-03-28 09:51:14,142] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:14,142] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:14,145] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:14,145] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:14,369] - TradeX.__name__ - INFO - Get data from url for date 20181130 is done
+[2019-03-28 09:51:14,389] - TradeX.__name__ - INFO - Insert HK trade data for date 20181130 is done
+[2019-03-28 09:51:14,390] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:14,390] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:14,398] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:14,398] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:14,404] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:14,405] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:14,410] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:14,411] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:14,818] - TradeX.__name__ - INFO - Get data from url for date 20181203 is done
+[2019-03-28 09:51:14,829] - TradeX.__name__ - INFO - Insert HK trade data for date 20181203 is done
+[2019-03-28 09:51:14,829] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:14,830] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:14,832] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:14,832] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:15,023] - TradeX.__name__ - INFO - Get data from url for date 20181204 is done
+[2019-03-28 09:51:15,048] - TradeX.__name__ - INFO - Insert HK trade data for date 20181204 is done
+[2019-03-28 09:51:15,049] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:15,050] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:15,059] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:15,059] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:15,691] - TradeX.__name__ - INFO - Get data from url for date 20181205 is done
+[2019-03-28 09:51:15,705] - TradeX.__name__ - INFO - Insert HK trade data for date 20181205 is done
+[2019-03-28 09:51:15,706] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:15,706] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:15,709] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:15,709] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:16,188] - TradeX.__name__ - INFO - Get data from url for date 20181206 is done
+[2019-03-28 09:51:16,210] - TradeX.__name__ - INFO - Insert HK trade data for date 20181206 is done
+[2019-03-28 09:51:16,210] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:16,211] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:16,219] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:16,220] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:16,546] - TradeX.__name__ - INFO - Get data from url for date 20181207 is done
+[2019-03-28 09:51:16,559] - TradeX.__name__ - INFO - Insert HK trade data for date 20181207 is done
+[2019-03-28 09:51:16,559] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:16,559] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:16,562] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:16,562] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:16,565] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:16,565] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:16,568] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:16,568] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:16,954] - TradeX.__name__ - INFO - Get data from url for date 20181210 is done
+[2019-03-28 09:51:16,971] - TradeX.__name__ - INFO - Insert HK trade data for date 20181210 is done
+[2019-03-28 09:51:16,971] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:16,971] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:16,976] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:16,977] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:17,259] - TradeX.__name__ - INFO - Get data from url for date 20181211 is done
+[2019-03-28 09:51:17,277] - TradeX.__name__ - INFO - Insert HK trade data for date 20181211 is done
+[2019-03-28 09:51:17,278] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:17,278] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:17,282] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:17,282] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:18,073] - TradeX.__name__ - INFO - Get data from url for date 20181212 is done
+[2019-03-28 09:51:18,085] - TradeX.__name__ - INFO - Insert HK trade data for date 20181212 is done
+[2019-03-28 09:51:18,086] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:18,086] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:18,089] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:18,090] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:18,501] - TradeX.__name__ - INFO - Get data from url for date 20181213 is done
+[2019-03-28 09:51:18,513] - TradeX.__name__ - INFO - Insert HK trade data for date 20181213 is done
+[2019-03-28 09:51:18,514] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:18,514] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:18,520] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:18,520] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:19,332] - TradeX.__name__ - INFO - Get data from url for date 20181214 is done
+[2019-03-28 09:51:19,346] - TradeX.__name__ - INFO - Insert HK trade data for date 20181214 is done
+[2019-03-28 09:51:19,346] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:19,346] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:19,349] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:19,349] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:19,352] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:19,352] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:19,356] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:19,356] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:19,926] - TradeX.__name__ - INFO - Get data from url for date 20181217 is done
+[2019-03-28 09:51:19,949] - TradeX.__name__ - INFO - Insert HK trade data for date 20181217 is done
+[2019-03-28 09:51:19,949] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:19,950] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:19,958] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:19,959] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:20,822] - TradeX.__name__ - INFO - Get data from url for date 20181218 is done
+[2019-03-28 09:51:20,843] - TradeX.__name__ - INFO - Insert HK trade data for date 20181218 is done
+[2019-03-28 09:51:20,844] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:20,844] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:20,853] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:20,854] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:21,586] - TradeX.__name__ - INFO - Get data from url for date 20181219 is done
+[2019-03-28 09:51:21,609] - TradeX.__name__ - INFO - Insert HK trade data for date 20181219 is done
+[2019-03-28 09:51:21,610] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:21,611] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:21,623] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:21,623] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:22,007] - TradeX.__name__ - INFO - Get data from url for date 20181220 is done
+[2019-03-28 09:51:22,028] - TradeX.__name__ - INFO - Insert HK trade data for date 20181220 is done
+[2019-03-28 09:51:22,029] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:22,030] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:22,038] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:22,039] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:22,426] - TradeX.__name__ - INFO - Get data from url for date 20181221 is done
+[2019-03-28 09:51:22,439] - TradeX.__name__ - INFO - Insert HK trade data for date 20181221 is done
+[2019-03-28 09:51:22,439] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:22,440] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:22,445] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:22,445] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:22,448] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:22,449] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:22,454] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:22,455] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:22,649] - TradeX.__name__ - INFO - Get data from url for date 20181224 is done
+[2019-03-28 09:51:22,662] - TradeX.__name__ - INFO - Insert HK trade data for date 20181224 is done
+[2019-03-28 09:51:22,662] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:22,662] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:22,666] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:22,666] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:23,409] - TradeX.__name__ - INFO - Get data from url for date 20181225 is done
+[2019-03-28 09:51:23,411] - TradeX.__name__ - INFO - Insert HK trade data for date 20181225 is done
+[2019-03-28 09:51:23,412] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:23,412] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:23,421] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:23,421] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:24,257] - TradeX.__name__ - INFO - Get data from url for date 20181226 is done
+[2019-03-28 09:51:24,258] - TradeX.__name__ - INFO - Insert HK trade data for date 20181226 is done
+[2019-03-28 09:51:24,258] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:24,259] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:24,262] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:24,262] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:24,444] - TradeX.__name__ - INFO - Get data from url for date 20181227 is done
+[2019-03-28 09:51:24,460] - TradeX.__name__ - INFO - Insert HK trade data for date 20181227 is done
+[2019-03-28 09:51:24,460] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:24,461] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:24,466] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:24,467] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:24,653] - TradeX.__name__ - INFO - Get data from url for date 20181228 is done
+[2019-03-28 09:51:24,673] - TradeX.__name__ - INFO - Insert HK trade data for date 20181228 is done
+[2019-03-28 09:51:24,674] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:24,675] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:24,683] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:24,684] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:24,693] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:24,693] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:24,703] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 09:51:24,703] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 09:51:26,166] - TradeX.__name__ - INFO - Get data from url for date 20181231 is done
+[2019-03-28 09:51:26,168] - TradeX.__name__ - INFO - Insert HK trade data for date 20181231 is done
+[2019-03-28 09:51:26,169] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 09:51:26,170] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 09:51:26,178] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:47:29,580] - TradeX - INFO - Main function starts here
+[2019-03-28 11:47:30,379] - TradeX.GetDataFromTushare - INFO - refresh holiday data successfully in TradeDB
+[2019-03-28 11:47:30,381] - TradeX - INFO - Main function ends here
+[2019-03-28 11:49:21,042] - TradeX - INFO - Main function starts here
+[2019-03-28 11:49:21,043] - TradeX.__name__ - INFO - Enter insert_data_by_period
+[2019-03-28 11:49:21,046] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:21,049] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:21,049] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:21,052] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:21,052] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:21,449] - TradeX.__name__ - INFO - Get data from url for date 20190102 is done
+[2019-03-28 11:49:21,462] - TradeX.__name__ - INFO - Insert HK trade data for date 20190102 is done
+[2019-03-28 11:49:21,462] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:21,462] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:21,465] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:21,465] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:21,649] - TradeX.__name__ - INFO - Get data from url for date 20190103 is done
+[2019-03-28 11:49:21,670] - TradeX.__name__ - INFO - Insert HK trade data for date 20190103 is done
+[2019-03-28 11:49:21,670] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:21,671] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:21,680] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:21,681] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:22,066] - TradeX.__name__ - INFO - Get data from url for date 20190104 is done
+[2019-03-28 11:49:22,088] - TradeX.__name__ - INFO - Insert HK trade data for date 20190104 is done
+[2019-03-28 11:49:22,089] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:22,090] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:22,098] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:22,099] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:22,108] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:22,108] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:22,117] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:22,118] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:22,305] - TradeX.__name__ - INFO - Get data from url for date 20190107 is done
+[2019-03-28 11:49:22,328] - TradeX.__name__ - INFO - Insert HK trade data for date 20190107 is done
+[2019-03-28 11:49:22,329] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:22,330] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:22,338] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:22,339] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:22,565] - TradeX.__name__ - INFO - Get data from url for date 20190108 is done
+[2019-03-28 11:49:22,587] - TradeX.__name__ - INFO - Insert HK trade data for date 20190108 is done
+[2019-03-28 11:49:22,588] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:22,589] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:22,598] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:22,598] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:26,133] - TradeX.__name__ - INFO - Get data from url for date 20190109 is done
+[2019-03-28 11:49:26,156] - TradeX.__name__ - INFO - Insert HK trade data for date 20190109 is done
+[2019-03-28 11:49:26,157] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:26,158] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:26,167] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:26,168] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:26,471] - TradeX.__name__ - INFO - Get data from url for date 20190110 is done
+[2019-03-28 11:49:26,486] - TradeX.__name__ - INFO - Insert HK trade data for date 20190110 is done
+[2019-03-28 11:49:26,487] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:26,487] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:26,491] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:26,491] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:26,780] - TradeX.__name__ - INFO - Get data from url for date 20190111 is done
+[2019-03-28 11:49:26,807] - TradeX.__name__ - INFO - Insert HK trade data for date 20190111 is done
+[2019-03-28 11:49:26,808] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:26,808] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:26,817] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:26,817] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:26,826] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:26,826] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:26,835] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:26,836] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:27,035] - TradeX.__name__ - INFO - Get data from url for date 20190114 is done
+[2019-03-28 11:49:27,048] - TradeX.__name__ - INFO - Insert HK trade data for date 20190114 is done
+[2019-03-28 11:49:27,048] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:27,048] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:27,052] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:27,052] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:27,244] - TradeX.__name__ - INFO - Get data from url for date 20190115 is done
+[2019-03-28 11:49:27,264] - TradeX.__name__ - INFO - Insert HK trade data for date 20190115 is done
+[2019-03-28 11:49:27,265] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:27,265] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:27,273] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:27,273] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:27,506] - TradeX.__name__ - INFO - Get data from url for date 20190116 is done
+[2019-03-28 11:49:27,531] - TradeX.__name__ - INFO - Insert HK trade data for date 20190116 is done
+[2019-03-28 11:49:27,531] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:27,532] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:27,541] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:27,541] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:27,791] - TradeX.__name__ - INFO - Get data from url for date 20190117 is done
+[2019-03-28 11:49:27,806] - TradeX.__name__ - INFO - Insert HK trade data for date 20190117 is done
+[2019-03-28 11:49:27,806] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:27,806] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:27,809] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:27,810] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:28,067] - TradeX.__name__ - INFO - Get data from url for date 20190118 is done
+[2019-03-28 11:49:28,092] - TradeX.__name__ - INFO - Insert HK trade data for date 20190118 is done
+[2019-03-28 11:49:28,093] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:28,093] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:28,103] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:28,104] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:28,115] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:28,116] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:28,125] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:28,126] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:28,363] - TradeX.__name__ - INFO - Get data from url for date 20190121 is done
+[2019-03-28 11:49:28,376] - TradeX.__name__ - INFO - Insert HK trade data for date 20190121 is done
+[2019-03-28 11:49:28,377] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:28,377] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:28,383] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:28,383] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:28,618] - TradeX.__name__ - INFO - Get data from url for date 20190122 is done
+[2019-03-28 11:49:28,641] - TradeX.__name__ - INFO - Insert HK trade data for date 20190122 is done
+[2019-03-28 11:49:28,642] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:28,642] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:28,652] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:28,653] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:28,907] - TradeX.__name__ - INFO - Get data from url for date 20190123 is done
+[2019-03-28 11:49:28,926] - TradeX.__name__ - INFO - Insert HK trade data for date 20190123 is done
+[2019-03-28 11:49:28,927] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:28,927] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:28,941] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:28,942] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:29,175] - TradeX.__name__ - INFO - Get data from url for date 20190124 is done
+[2019-03-28 11:49:29,195] - TradeX.__name__ - INFO - Insert HK trade data for date 20190124 is done
+[2019-03-28 11:49:29,196] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:29,197] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:29,204] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:29,205] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:32,539] - TradeX.__name__ - INFO - Get data from url for date 20190125 is done
+[2019-03-28 11:49:32,561] - TradeX.__name__ - INFO - Insert HK trade data for date 20190125 is done
+[2019-03-28 11:49:32,561] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:32,562] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:32,570] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:32,570] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:32,579] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:32,579] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:32,587] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:32,588] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:32,830] - TradeX.__name__ - INFO - Get data from url for date 20190128 is done
+[2019-03-28 11:49:32,852] - TradeX.__name__ - INFO - Insert HK trade data for date 20190128 is done
+[2019-03-28 11:49:32,852] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:32,853] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:32,861] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:32,861] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:33,062] - TradeX.__name__ - INFO - Get data from url for date 20190129 is done
+[2019-03-28 11:49:33,085] - TradeX.__name__ - INFO - Insert HK trade data for date 20190129 is done
+[2019-03-28 11:49:33,085] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:33,086] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,094] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,095] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:33,358] - TradeX.__name__ - INFO - Get data from url for date 20190130 is done
+[2019-03-28 11:49:33,380] - TradeX.__name__ - INFO - Insert HK trade data for date 20190130 is done
+[2019-03-28 11:49:33,380] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:33,381] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,390] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,391] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:33,570] - TradeX.__name__ - INFO - Get data from url for date 20190131 is done
+[2019-03-28 11:49:33,593] - TradeX.__name__ - INFO - Insert HK trade data for date 20190131 is done
+[2019-03-28 11:49:33,594] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:33,594] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,603] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,604] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:33,777] - TradeX.__name__ - INFO - Get data from url for date 20190201 is done
+[2019-03-28 11:49:33,800] - TradeX.__name__ - INFO - Insert HK trade data for date 20190201 is done
+[2019-03-28 11:49:33,800] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:33,800] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,808] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,809] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,818] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,819] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,827] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,828] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,836] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,836] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,845] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,845] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,853] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,854] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,859] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,859] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,864] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,865] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,870] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,870] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:33,874] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:33,874] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:34,106] - TradeX.__name__ - INFO - Get data from url for date 20190211 is done
+[2019-03-28 11:49:34,128] - TradeX.__name__ - INFO - Insert HK trade data for date 20190211 is done
+[2019-03-28 11:49:34,129] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:34,129] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:34,138] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:34,138] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:34,362] - TradeX.__name__ - INFO - Get data from url for date 20190212 is done
+[2019-03-28 11:49:34,383] - TradeX.__name__ - INFO - Insert HK trade data for date 20190212 is done
+[2019-03-28 11:49:34,384] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:34,384] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:34,391] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:34,393] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:34,624] - TradeX.__name__ - INFO - Get data from url for date 20190213 is done
+[2019-03-28 11:49:34,635] - TradeX.__name__ - INFO - Insert HK trade data for date 20190213 is done
+[2019-03-28 11:49:34,635] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:34,635] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:34,638] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:34,639] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:35,150] - TradeX.__name__ - INFO - Get data from url for date 20190214 is done
+[2019-03-28 11:49:35,165] - TradeX.__name__ - INFO - Insert HK trade data for date 20190214 is done
+[2019-03-28 11:49:35,165] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:35,166] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:35,171] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:35,171] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:35,593] - TradeX.__name__ - INFO - Get data from url for date 20190215 is done
+[2019-03-28 11:49:35,613] - TradeX.__name__ - INFO - Insert HK trade data for date 20190215 is done
+[2019-03-28 11:49:35,614] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:35,615] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:35,624] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:35,624] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:35,633] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:35,635] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:35,642] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:35,642] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:35,942] - TradeX.__name__ - INFO - Get data from url for date 20190218 is done
+[2019-03-28 11:49:35,965] - TradeX.__name__ - INFO - Insert HK trade data for date 20190218 is done
+[2019-03-28 11:49:35,965] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:35,966] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:35,974] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:35,975] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:36,204] - TradeX.__name__ - INFO - Get data from url for date 20190219 is done
+[2019-03-28 11:49:36,223] - TradeX.__name__ - INFO - Insert HK trade data for date 20190219 is done
+[2019-03-28 11:49:36,223] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:36,223] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:36,227] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:36,227] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:36,438] - TradeX.__name__ - INFO - Get data from url for date 20190220 is done
+[2019-03-28 11:49:36,449] - TradeX.__name__ - INFO - Insert HK trade data for date 20190220 is done
+[2019-03-28 11:49:36,449] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:36,450] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:36,454] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:36,454] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:36,638] - TradeX.__name__ - INFO - Get data from url for date 20190221 is done
+[2019-03-28 11:49:36,649] - TradeX.__name__ - INFO - Insert HK trade data for date 20190221 is done
+[2019-03-28 11:49:36,649] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:36,650] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:36,653] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:36,653] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:37,120] - TradeX.__name__ - INFO - Get data from url for date 20190222 is done
+[2019-03-28 11:49:37,138] - TradeX.__name__ - INFO - Insert HK trade data for date 20190222 is done
+[2019-03-28 11:49:37,138] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:37,139] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:37,148] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:37,149] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:37,157] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:37,158] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:37,165] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:37,165] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:37,381] - TradeX.__name__ - INFO - Get data from url for date 20190225 is done
+[2019-03-28 11:49:37,393] - TradeX.__name__ - INFO - Insert HK trade data for date 20190225 is done
+[2019-03-28 11:49:37,393] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:37,394] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:37,397] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:37,397] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:37,716] - TradeX.__name__ - INFO - Get data from url for date 20190226 is done
+[2019-03-28 11:49:37,727] - TradeX.__name__ - INFO - Insert HK trade data for date 20190226 is done
+[2019-03-28 11:49:37,728] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:37,728] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:37,731] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:37,731] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:38,025] - TradeX.__name__ - INFO - Get data from url for date 20190227 is done
+[2019-03-28 11:49:38,039] - TradeX.__name__ - INFO - Insert HK trade data for date 20190227 is done
+[2019-03-28 11:49:38,040] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:38,040] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:38,044] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:38,044] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:38,280] - TradeX.__name__ - INFO - Get data from url for date 20190228 is done
+[2019-03-28 11:49:38,302] - TradeX.__name__ - INFO - Insert HK trade data for date 20190228 is done
+[2019-03-28 11:49:38,302] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:38,303] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:38,311] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:38,312] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:38,502] - TradeX.__name__ - INFO - Get data from url for date 20190301 is done
+[2019-03-28 11:49:38,522] - TradeX.__name__ - INFO - Insert HK trade data for date 20190301 is done
+[2019-03-28 11:49:38,523] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:38,523] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:38,531] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:38,532] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:38,540] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:38,541] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:38,549] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:38,549] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:38,773] - TradeX.__name__ - INFO - Get data from url for date 20190304 is done
+[2019-03-28 11:49:38,796] - TradeX.__name__ - INFO - Insert HK trade data for date 20190304 is done
+[2019-03-28 11:49:38,796] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:38,797] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:38,809] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:38,810] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:39,049] - TradeX.__name__ - INFO - Get data from url for date 20190305 is done
+[2019-03-28 11:49:39,071] - TradeX.__name__ - INFO - Insert HK trade data for date 20190305 is done
+[2019-03-28 11:49:39,071] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:39,072] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:39,081] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:39,081] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:39,296] - TradeX.__name__ - INFO - Get data from url for date 20190306 is done
+[2019-03-28 11:49:39,317] - TradeX.__name__ - INFO - Insert HK trade data for date 20190306 is done
+[2019-03-28 11:49:39,318] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:39,319] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:39,329] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:39,329] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:39,571] - TradeX.__name__ - INFO - Get data from url for date 20190307 is done
+[2019-03-28 11:49:39,593] - TradeX.__name__ - INFO - Insert HK trade data for date 20190307 is done
+[2019-03-28 11:49:39,593] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:39,594] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:39,602] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:39,603] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:39,803] - TradeX.__name__ - INFO - Get data from url for date 20190308 is done
+[2019-03-28 11:49:39,826] - TradeX.__name__ - INFO - Insert HK trade data for date 20190308 is done
+[2019-03-28 11:49:39,827] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:39,828] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:39,841] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:39,842] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:39,853] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:39,854] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:39,863] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:39,863] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:40,140] - TradeX.__name__ - INFO - Get data from url for date 20190311 is done
+[2019-03-28 11:49:40,162] - TradeX.__name__ - INFO - Insert HK trade data for date 20190311 is done
+[2019-03-28 11:49:40,163] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:40,164] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:40,172] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:40,172] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:40,425] - TradeX.__name__ - INFO - Get data from url for date 20190312 is done
+[2019-03-28 11:49:40,440] - TradeX.__name__ - INFO - Insert HK trade data for date 20190312 is done
+[2019-03-28 11:49:40,441] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:40,441] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:40,445] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:40,445] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:40,935] - TradeX.__name__ - INFO - Get data from url for date 20190313 is done
+[2019-03-28 11:49:40,954] - TradeX.__name__ - INFO - Insert HK trade data for date 20190313 is done
+[2019-03-28 11:49:40,954] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:40,955] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:40,962] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:40,962] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:41,218] - TradeX.__name__ - INFO - Get data from url for date 20190314 is done
+[2019-03-28 11:49:41,240] - TradeX.__name__ - INFO - Insert HK trade data for date 20190314 is done
+[2019-03-28 11:49:41,241] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:41,241] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:41,250] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:41,250] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:41,482] - TradeX.__name__ - INFO - Get data from url for date 20190315 is done
+[2019-03-28 11:49:41,502] - TradeX.__name__ - INFO - Insert HK trade data for date 20190315 is done
+[2019-03-28 11:49:41,503] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:41,504] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:41,513] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:41,513] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:41,522] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:41,522] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:41,531] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:41,532] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:41,762] - TradeX.__name__ - INFO - Get data from url for date 20190318 is done
+[2019-03-28 11:49:41,786] - TradeX.__name__ - INFO - Insert HK trade data for date 20190318 is done
+[2019-03-28 11:49:41,786] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:41,787] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:41,795] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:41,796] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:42,068] - TradeX.__name__ - INFO - Get data from url for date 20190319 is done
+[2019-03-28 11:49:42,083] - TradeX.__name__ - INFO - Insert HK trade data for date 20190319 is done
+[2019-03-28 11:49:42,084] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:42,084] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:42,089] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:42,091] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:42,319] - TradeX.__name__ - INFO - Get data from url for date 20190320 is done
+[2019-03-28 11:49:42,330] - TradeX.__name__ - INFO - Insert HK trade data for date 20190320 is done
+[2019-03-28 11:49:42,330] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:42,330] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:42,333] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:42,333] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:42,601] - TradeX.__name__ - INFO - Get data from url for date 20190321 is done
+[2019-03-28 11:49:42,616] - TradeX.__name__ - INFO - Insert HK trade data for date 20190321 is done
+[2019-03-28 11:49:42,616] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:42,616] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:42,619] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:42,620] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:42,877] - TradeX.__name__ - INFO - Get data from url for date 20190322 is done
+[2019-03-28 11:49:42,899] - TradeX.__name__ - INFO - Insert HK trade data for date 20190322 is done
+[2019-03-28 11:49:42,900] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:42,901] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:42,910] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:42,910] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:42,920] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:42,921] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:42,930] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:42,931] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:43,153] - TradeX.__name__ - INFO - Get data from url for date 20190325 is done
+[2019-03-28 11:49:43,180] - TradeX.__name__ - INFO - Insert HK trade data for date 20190325 is done
+[2019-03-28 11:49:43,180] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:43,181] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:43,192] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:43,193] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:43,474] - TradeX.__name__ - INFO - Get data from url for date 20190326 is done
+[2019-03-28 11:49:43,490] - TradeX.__name__ - INFO - Insert HK trade data for date 20190326 is done
+[2019-03-28 11:49:43,491] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:43,491] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-03-28 11:49:43,496] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-03-28 11:49:43,497] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-03-28 11:49:43,750] - TradeX.__name__ - INFO - Get data from url for date 20190327 is done
+[2019-03-28 11:49:43,772] - TradeX.__name__ - INFO - Insert HK trade data for date 20190327 is done
+[2019-03-28 11:49:43,773] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-03-28 11:49:43,773] - TradeX.__name__ - INFO - Exit insert_data_by_period
+[2019-03-28 11:49:43,774] - TradeX - INFO - Main function ends here
+[2019-08-21 17:17:55,846] - TradeX - INFO - Main function starts here
+[2019-08-21 17:17:55,847] - TradeX.__name__ - INFO - Enter insert_data_by_period
+[2019-08-21 17:17:55,850] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:55,886] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:55,886] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:56,453] - TradeX.__name__ - INFO - Get data from url for date 20190328 is done
+[2019-08-21 17:17:56,466] - TradeX.__name__ - INFO - Insert HK trade data for date 20190328 is done
+[2019-08-21 17:17:56,466] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:56,466] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:56,468] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:56,468] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:56,791] - TradeX.__name__ - INFO - Get data from url for date 20190329 is done
+[2019-08-21 17:17:56,800] - TradeX.__name__ - INFO - Insert HK trade data for date 20190329 is done
+[2019-08-21 17:17:56,800] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:56,800] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:56,802] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:56,802] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:56,804] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:56,805] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:56,807] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:56,807] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:57,054] - TradeX.__name__ - INFO - Get data from url for date 20190401 is done
+[2019-08-21 17:17:57,064] - TradeX.__name__ - INFO - Insert HK trade data for date 20190401 is done
+[2019-08-21 17:17:57,064] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:57,064] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:57,067] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:57,067] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:57,291] - TradeX.__name__ - INFO - Get data from url for date 20190402 is done
+[2019-08-21 17:17:57,303] - TradeX.__name__ - INFO - Insert HK trade data for date 20190402 is done
+[2019-08-21 17:17:57,303] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:57,303] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:57,306] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:57,306] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:57,629] - TradeX.__name__ - INFO - Get data from url for date 20190403 is done
+[2019-08-21 17:17:57,639] - TradeX.__name__ - INFO - Insert HK trade data for date 20190403 is done
+[2019-08-21 17:17:57,639] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:57,639] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:57,641] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:57,641] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:57,934] - TradeX.__name__ - INFO - Get data from url for date 20190404 is done
+[2019-08-21 17:17:57,945] - TradeX.__name__ - INFO - Insert HK trade data for date 20190404 is done
+[2019-08-21 17:17:57,946] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:57,946] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:57,948] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:57,948] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:57,951] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:57,951] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:57,953] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:57,953] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:57,956] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:57,956] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:58,214] - TradeX.__name__ - INFO - Get data from url for date 20190408 is done
+[2019-08-21 17:17:58,224] - TradeX.__name__ - INFO - Insert HK trade data for date 20190408 is done
+[2019-08-21 17:17:58,224] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:58,224] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:58,226] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:58,226] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:58,464] - TradeX.__name__ - INFO - Get data from url for date 20190409 is done
+[2019-08-21 17:17:58,473] - TradeX.__name__ - INFO - Insert HK trade data for date 20190409 is done
+[2019-08-21 17:17:58,473] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:58,473] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:58,476] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:58,476] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:58,705] - TradeX.__name__ - INFO - Get data from url for date 20190410 is done
+[2019-08-21 17:17:58,716] - TradeX.__name__ - INFO - Insert HK trade data for date 20190410 is done
+[2019-08-21 17:17:58,716] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:58,716] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:58,719] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:58,719] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:59,013] - TradeX.__name__ - INFO - Get data from url for date 20190411 is done
+[2019-08-21 17:17:59,024] - TradeX.__name__ - INFO - Insert HK trade data for date 20190411 is done
+[2019-08-21 17:17:59,024] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:59,024] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:59,026] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:59,026] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:59,288] - TradeX.__name__ - INFO - Get data from url for date 20190412 is done
+[2019-08-21 17:17:59,299] - TradeX.__name__ - INFO - Insert HK trade data for date 20190412 is done
+[2019-08-21 17:17:59,299] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:59,300] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:59,302] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:59,302] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:59,305] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:59,305] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:59,307] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:59,307] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:17:59,680] - TradeX.__name__ - INFO - Get data from url for date 20190415 is done
+[2019-08-21 17:17:59,690] - TradeX.__name__ - INFO - Insert HK trade data for date 20190415 is done
+[2019-08-21 17:17:59,690] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:17:59,691] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:17:59,693] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:17:59,693] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:03,128] - TradeX.__name__ - INFO - Get data from url for date 20190416 is done
+[2019-08-21 17:18:03,139] - TradeX.__name__ - INFO - Insert HK trade data for date 20190416 is done
+[2019-08-21 17:18:03,139] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:03,139] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:03,142] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:03,142] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:03,387] - TradeX.__name__ - INFO - Get data from url for date 20190417 is done
+[2019-08-21 17:18:03,399] - TradeX.__name__ - INFO - Insert HK trade data for date 20190417 is done
+[2019-08-21 17:18:03,399] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:03,400] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:03,402] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:03,402] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:03,654] - TradeX.__name__ - INFO - Get data from url for date 20190418 is done
+[2019-08-21 17:18:03,664] - TradeX.__name__ - INFO - Insert HK trade data for date 20190418 is done
+[2019-08-21 17:18:03,664] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:03,664] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:03,666] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:03,667] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:04,216] - TradeX.__name__ - INFO - Get data from url for date 20190419 is done
+[2019-08-21 17:18:04,217] - TradeX.__name__ - INFO - Insert HK trade data for date 20190419 is done
+[2019-08-21 17:18:04,217] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:04,217] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:04,219] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:04,220] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:04,222] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:04,222] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:04,224] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:04,224] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:04,430] - TradeX.__name__ - INFO - Get data from url for date 20190422 is done
+[2019-08-21 17:18:04,431] - TradeX.__name__ - INFO - Insert HK trade data for date 20190422 is done
+[2019-08-21 17:18:04,432] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:04,433] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:04,436] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:04,436] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:04,885] - TradeX.__name__ - INFO - Get data from url for date 20190423 is done
+[2019-08-21 17:18:04,894] - TradeX.__name__ - INFO - Insert HK trade data for date 20190423 is done
+[2019-08-21 17:18:04,894] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:04,894] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:04,896] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:04,896] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:05,314] - TradeX.__name__ - INFO - Get data from url for date 20190424 is done
+[2019-08-21 17:18:05,323] - TradeX.__name__ - INFO - Insert HK trade data for date 20190424 is done
+[2019-08-21 17:18:05,323] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:05,323] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:05,325] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:05,325] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:05,552] - TradeX.__name__ - INFO - Get data from url for date 20190425 is done
+[2019-08-21 17:18:05,563] - TradeX.__name__ - INFO - Insert HK trade data for date 20190425 is done
+[2019-08-21 17:18:05,563] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:05,563] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:05,565] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:05,566] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:05,835] - TradeX.__name__ - INFO - Get data from url for date 20190426 is done
+[2019-08-21 17:18:05,846] - TradeX.__name__ - INFO - Insert HK trade data for date 20190426 is done
+[2019-08-21 17:18:05,847] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:05,847] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:05,849] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:05,849] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:05,852] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:05,852] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:05,854] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:05,854] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:06,109] - TradeX.__name__ - INFO - Get data from url for date 20190429 is done
+[2019-08-21 17:18:06,120] - TradeX.__name__ - INFO - Insert HK trade data for date 20190429 is done
+[2019-08-21 17:18:06,120] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:06,120] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:06,122] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:06,122] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:06,431] - TradeX.__name__ - INFO - Get data from url for date 20190430 is done
+[2019-08-21 17:18:06,441] - TradeX.__name__ - INFO - Insert HK trade data for date 20190430 is done
+[2019-08-21 17:18:06,441] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:06,441] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:06,443] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:06,444] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:06,446] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:06,446] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:06,635] - TradeX.__name__ - INFO - Get data from url for date 20190502 is done
+[2019-08-21 17:18:06,636] - TradeX.__name__ - INFO - Insert HK trade data for date 20190502 is done
+[2019-08-21 17:18:06,636] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:06,637] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:06,640] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:06,640] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:06,919] - TradeX.__name__ - INFO - Get data from url for date 20190503 is done
+[2019-08-21 17:18:06,920] - TradeX.__name__ - INFO - Insert HK trade data for date 20190503 is done
+[2019-08-21 17:18:06,920] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:06,920] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:06,923] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:06,923] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:06,925] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:06,925] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:06,927] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:06,927] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:07,221] - TradeX.__name__ - INFO - Get data from url for date 20190506 is done
+[2019-08-21 17:18:07,233] - TradeX.__name__ - INFO - Insert HK trade data for date 20190506 is done
+[2019-08-21 17:18:07,233] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:07,233] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:07,234] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:07,234] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:07,500] - TradeX.__name__ - INFO - Get data from url for date 20190507 is done
+[2019-08-21 17:18:07,510] - TradeX.__name__ - INFO - Insert HK trade data for date 20190507 is done
+[2019-08-21 17:18:07,511] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:07,511] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:07,513] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:07,513] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:07,830] - TradeX.__name__ - INFO - Get data from url for date 20190508 is done
+[2019-08-21 17:18:07,840] - TradeX.__name__ - INFO - Insert HK trade data for date 20190508 is done
+[2019-08-21 17:18:07,840] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:07,840] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:07,842] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:07,842] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:08,067] - TradeX.__name__ - INFO - Get data from url for date 20190509 is done
+[2019-08-21 17:18:08,077] - TradeX.__name__ - INFO - Insert HK trade data for date 20190509 is done
+[2019-08-21 17:18:08,077] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:08,077] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:08,079] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:08,079] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:08,330] - TradeX.__name__ - INFO - Get data from url for date 20190510 is done
+[2019-08-21 17:18:08,340] - TradeX.__name__ - INFO - Insert HK trade data for date 20190510 is done
+[2019-08-21 17:18:08,340] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:08,340] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:08,342] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:08,342] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:08,345] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:08,345] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:08,347] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:08,347] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:18,098] - TradeX.__name__ - INFO - Get data from url for date 20190513 is done
+[2019-08-21 17:18:18,098] - TradeX.__name__ - INFO - Insert HK trade data for date 20190513 is done
+[2019-08-21 17:18:18,098] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:18,098] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:18,100] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:18,100] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:18,603] - TradeX.__name__ - INFO - Get data from url for date 20190514 is done
+[2019-08-21 17:18:18,614] - TradeX.__name__ - INFO - Insert HK trade data for date 20190514 is done
+[2019-08-21 17:18:18,614] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:18,614] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:18,616] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:18,616] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:18,863] - TradeX.__name__ - INFO - Get data from url for date 20190515 is done
+[2019-08-21 17:18:18,874] - TradeX.__name__ - INFO - Insert HK trade data for date 20190515 is done
+[2019-08-21 17:18:18,875] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:18,875] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:18,877] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:18,877] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:19,104] - TradeX.__name__ - INFO - Get data from url for date 20190516 is done
+[2019-08-21 17:18:19,115] - TradeX.__name__ - INFO - Insert HK trade data for date 20190516 is done
+[2019-08-21 17:18:19,115] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:19,115] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:19,118] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:19,118] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:19,351] - TradeX.__name__ - INFO - Get data from url for date 20190517 is done
+[2019-08-21 17:18:19,363] - TradeX.__name__ - INFO - Insert HK trade data for date 20190517 is done
+[2019-08-21 17:18:19,363] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:19,363] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:19,366] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:19,366] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:19,368] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:19,368] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:19,370] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:19,370] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:19,629] - TradeX.__name__ - INFO - Get data from url for date 20190520 is done
+[2019-08-21 17:18:19,639] - TradeX.__name__ - INFO - Insert HK trade data for date 20190520 is done
+[2019-08-21 17:18:19,639] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:19,639] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:19,641] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:19,642] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:19,885] - TradeX.__name__ - INFO - Get data from url for date 20190521 is done
+[2019-08-21 17:18:19,896] - TradeX.__name__ - INFO - Insert HK trade data for date 20190521 is done
+[2019-08-21 17:18:19,896] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:19,896] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:19,898] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:19,898] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:20,164] - TradeX.__name__ - INFO - Get data from url for date 20190522 is done
+[2019-08-21 17:18:20,175] - TradeX.__name__ - INFO - Insert HK trade data for date 20190522 is done
+[2019-08-21 17:18:20,175] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:20,175] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:20,178] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:20,178] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:20,473] - TradeX.__name__ - INFO - Get data from url for date 20190523 is done
+[2019-08-21 17:18:20,484] - TradeX.__name__ - INFO - Insert HK trade data for date 20190523 is done
+[2019-08-21 17:18:20,484] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:20,484] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:20,486] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:20,486] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:21,024] - TradeX.__name__ - INFO - Get data from url for date 20190524 is done
+[2019-08-21 17:18:21,035] - TradeX.__name__ - INFO - Insert HK trade data for date 20190524 is done
+[2019-08-21 17:18:21,035] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:21,035] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:21,037] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:21,037] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:21,039] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:21,040] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:21,042] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:21,042] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:21,336] - TradeX.__name__ - INFO - Get data from url for date 20190527 is done
+[2019-08-21 17:18:21,347] - TradeX.__name__ - INFO - Insert HK trade data for date 20190527 is done
+[2019-08-21 17:18:21,347] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:21,347] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:21,350] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:21,350] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:21,627] - TradeX.__name__ - INFO - Get data from url for date 20190528 is done
+[2019-08-21 17:18:21,637] - TradeX.__name__ - INFO - Insert HK trade data for date 20190528 is done
+[2019-08-21 17:18:21,637] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:21,637] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:21,640] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:21,640] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:22,974] - TradeX.__name__ - INFO - Get data from url for date 20190529 is done
+[2019-08-21 17:18:22,984] - TradeX.__name__ - INFO - Insert HK trade data for date 20190529 is done
+[2019-08-21 17:18:22,984] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:22,984] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:22,986] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:22,987] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:23,291] - TradeX.__name__ - INFO - Get data from url for date 20190530 is done
+[2019-08-21 17:18:23,301] - TradeX.__name__ - INFO - Insert HK trade data for date 20190530 is done
+[2019-08-21 17:18:23,301] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:23,302] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:23,304] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:23,304] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:23,580] - TradeX.__name__ - INFO - Get data from url for date 20190531 is done
+[2019-08-21 17:18:23,594] - TradeX.__name__ - INFO - Insert HK trade data for date 20190531 is done
+[2019-08-21 17:18:23,594] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:23,594] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:23,597] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:23,597] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:23,599] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:23,599] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:23,602] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:23,602] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:23,977] - TradeX.__name__ - INFO - Get data from url for date 20190603 is done
+[2019-08-21 17:18:23,987] - TradeX.__name__ - INFO - Insert HK trade data for date 20190603 is done
+[2019-08-21 17:18:23,988] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:23,988] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:23,990] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:23,990] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:24,313] - TradeX.__name__ - INFO - Get data from url for date 20190604 is done
+[2019-08-21 17:18:24,325] - TradeX.__name__ - INFO - Insert HK trade data for date 20190604 is done
+[2019-08-21 17:18:24,325] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:24,325] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:24,327] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:24,328] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:24,676] - TradeX.__name__ - INFO - Get data from url for date 20190605 is done
+[2019-08-21 17:18:24,687] - TradeX.__name__ - INFO - Insert HK trade data for date 20190605 is done
+[2019-08-21 17:18:24,687] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:24,687] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:24,690] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:24,690] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:24,972] - TradeX.__name__ - INFO - Get data from url for date 20190606 is done
+[2019-08-21 17:18:24,982] - TradeX.__name__ - INFO - Insert HK trade data for date 20190606 is done
+[2019-08-21 17:18:24,982] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:24,983] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:24,985] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:24,985] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:24,987] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:24,987] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:24,990] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:24,990] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:24,992] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:24,992] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:25,229] - TradeX.__name__ - INFO - Get data from url for date 20190610 is done
+[2019-08-21 17:18:25,242] - TradeX.__name__ - INFO - Insert HK trade data for date 20190610 is done
+[2019-08-21 17:18:25,243] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:25,243] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:25,245] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:25,245] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:25,485] - TradeX.__name__ - INFO - Get data from url for date 20190611 is done
+[2019-08-21 17:18:25,495] - TradeX.__name__ - INFO - Insert HK trade data for date 20190611 is done
+[2019-08-21 17:18:25,495] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:25,495] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:25,497] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:25,498] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:25,708] - TradeX.__name__ - INFO - Get data from url for date 20190612 is done
+[2019-08-21 17:18:25,717] - TradeX.__name__ - INFO - Insert HK trade data for date 20190612 is done
+[2019-08-21 17:18:25,717] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:25,718] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:25,720] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:25,720] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:26,029] - TradeX.__name__ - INFO - Get data from url for date 20190613 is done
+[2019-08-21 17:18:26,040] - TradeX.__name__ - INFO - Insert HK trade data for date 20190613 is done
+[2019-08-21 17:18:26,041] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:26,041] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:26,043] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:26,043] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:26,257] - TradeX.__name__ - INFO - Get data from url for date 20190614 is done
+[2019-08-21 17:18:26,268] - TradeX.__name__ - INFO - Insert HK trade data for date 20190614 is done
+[2019-08-21 17:18:26,268] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:26,268] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:26,271] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:26,271] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:26,274] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:26,274] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:26,276] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:26,276] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:27,640] - TradeX.__name__ - INFO - Get data from url for date 20190617 is done
+[2019-08-21 17:18:27,651] - TradeX.__name__ - INFO - Insert HK trade data for date 20190617 is done
+[2019-08-21 17:18:27,652] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:27,652] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:27,654] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:27,654] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:27,982] - TradeX.__name__ - INFO - Get data from url for date 20190618 is done
+[2019-08-21 17:18:27,992] - TradeX.__name__ - INFO - Insert HK trade data for date 20190618 is done
+[2019-08-21 17:18:27,993] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:27,993] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:27,995] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:27,995] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:28,228] - TradeX.__name__ - INFO - Get data from url for date 20190619 is done
+[2019-08-21 17:18:28,238] - TradeX.__name__ - INFO - Insert HK trade data for date 20190619 is done
+[2019-08-21 17:18:28,239] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:28,239] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:28,241] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:28,242] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:29,598] - TradeX.__name__ - INFO - Get data from url for date 20190620 is done
+[2019-08-21 17:18:29,609] - TradeX.__name__ - INFO - Insert HK trade data for date 20190620 is done
+[2019-08-21 17:18:29,609] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:29,610] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:29,612] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:29,612] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:29,848] - TradeX.__name__ - INFO - Get data from url for date 20190621 is done
+[2019-08-21 17:18:29,857] - TradeX.__name__ - INFO - Insert HK trade data for date 20190621 is done
+[2019-08-21 17:18:29,858] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:29,858] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:29,860] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:29,861] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:29,863] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:29,863] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:29,865] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:29,865] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:30,059] - TradeX.__name__ - INFO - Get data from url for date 20190624 is done
+[2019-08-21 17:18:30,071] - TradeX.__name__ - INFO - Insert HK trade data for date 20190624 is done
+[2019-08-21 17:18:30,071] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:30,071] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:30,074] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:30,074] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:30,296] - TradeX.__name__ - INFO - Get data from url for date 20190625 is done
+[2019-08-21 17:18:30,305] - TradeX.__name__ - INFO - Insert HK trade data for date 20190625 is done
+[2019-08-21 17:18:30,305] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:30,305] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:30,307] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:30,308] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:30,551] - TradeX.__name__ - INFO - Get data from url for date 20190626 is done
+[2019-08-21 17:18:30,561] - TradeX.__name__ - INFO - Insert HK trade data for date 20190626 is done
+[2019-08-21 17:18:30,561] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:30,561] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:30,564] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:30,564] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:30,832] - TradeX.__name__ - INFO - Get data from url for date 20190627 is done
+[2019-08-21 17:18:30,843] - TradeX.__name__ - INFO - Insert HK trade data for date 20190627 is done
+[2019-08-21 17:18:30,843] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:30,843] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:30,845] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:30,845] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:31,056] - TradeX.__name__ - INFO - Get data from url for date 20190628 is done
+[2019-08-21 17:18:31,066] - TradeX.__name__ - INFO - Insert HK trade data for date 20190628 is done
+[2019-08-21 17:18:31,066] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:31,066] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:31,068] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:31,069] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:31,071] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:31,071] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:31,073] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:31,074] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:31,287] - TradeX.__name__ - INFO - Get data from url for date 20190701 is done
+[2019-08-21 17:18:31,288] - TradeX.__name__ - INFO - Insert HK trade data for date 20190701 is done
+[2019-08-21 17:18:31,288] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:31,288] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:31,291] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:31,291] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:31,510] - TradeX.__name__ - INFO - Get data from url for date 20190702 is done
+[2019-08-21 17:18:31,520] - TradeX.__name__ - INFO - Insert HK trade data for date 20190702 is done
+[2019-08-21 17:18:31,520] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:31,521] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:31,523] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:31,523] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:31,913] - TradeX.__name__ - INFO - Get data from url for date 20190703 is done
+[2019-08-21 17:18:31,924] - TradeX.__name__ - INFO - Insert HK trade data for date 20190703 is done
+[2019-08-21 17:18:31,924] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:31,924] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:31,926] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:31,927] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:32,280] - TradeX.__name__ - INFO - Get data from url for date 20190704 is done
+[2019-08-21 17:18:32,291] - TradeX.__name__ - INFO - Insert HK trade data for date 20190704 is done
+[2019-08-21 17:18:32,291] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:32,291] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:32,293] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:32,293] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:32,579] - TradeX.__name__ - INFO - Get data from url for date 20190705 is done
+[2019-08-21 17:18:32,589] - TradeX.__name__ - INFO - Insert HK trade data for date 20190705 is done
+[2019-08-21 17:18:32,589] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:32,589] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:32,591] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:32,591] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:32,593] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:32,594] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:32,596] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:32,596] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:32,892] - TradeX.__name__ - INFO - Get data from url for date 20190708 is done
+[2019-08-21 17:18:32,902] - TradeX.__name__ - INFO - Insert HK trade data for date 20190708 is done
+[2019-08-21 17:18:32,902] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:32,902] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:32,905] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:32,905] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:33,160] - TradeX.__name__ - INFO - Get data from url for date 20190709 is done
+[2019-08-21 17:18:33,171] - TradeX.__name__ - INFO - Insert HK trade data for date 20190709 is done
+[2019-08-21 17:18:33,171] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:33,171] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:33,174] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:33,174] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:33,423] - TradeX.__name__ - INFO - Get data from url for date 20190710 is done
+[2019-08-21 17:18:33,433] - TradeX.__name__ - INFO - Insert HK trade data for date 20190710 is done
+[2019-08-21 17:18:33,434] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:33,434] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:33,436] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:33,436] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:33,752] - TradeX.__name__ - INFO - Get data from url for date 20190711 is done
+[2019-08-21 17:18:33,763] - TradeX.__name__ - INFO - Insert HK trade data for date 20190711 is done
+[2019-08-21 17:18:33,763] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:33,763] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:33,765] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:33,765] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:35,154] - TradeX.__name__ - INFO - Get data from url for date 20190712 is done
+[2019-08-21 17:18:35,165] - TradeX.__name__ - INFO - Insert HK trade data for date 20190712 is done
+[2019-08-21 17:18:35,165] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:35,166] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:35,169] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:35,170] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:35,173] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:35,173] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:35,175] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:35,175] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:35,497] - TradeX.__name__ - INFO - Get data from url for date 20190715 is done
+[2019-08-21 17:18:35,507] - TradeX.__name__ - INFO - Insert HK trade data for date 20190715 is done
+[2019-08-21 17:18:35,507] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:35,507] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:35,509] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:35,510] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:35,785] - TradeX.__name__ - INFO - Get data from url for date 20190716 is done
+[2019-08-21 17:18:35,795] - TradeX.__name__ - INFO - Insert HK trade data for date 20190716 is done
+[2019-08-21 17:18:35,796] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:35,796] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:35,798] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:35,799] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:40,212] - TradeX.__name__ - INFO - Get data from url for date 20190717 is done
+[2019-08-21 17:18:40,221] - TradeX.__name__ - INFO - Insert HK trade data for date 20190717 is done
+[2019-08-21 17:18:40,221] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:40,221] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:40,224] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:40,224] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:40,449] - TradeX.__name__ - INFO - Get data from url for date 20190718 is done
+[2019-08-21 17:18:40,459] - TradeX.__name__ - INFO - Insert HK trade data for date 20190718 is done
+[2019-08-21 17:18:40,459] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:40,459] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:40,461] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:40,461] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:40,680] - TradeX.__name__ - INFO - Get data from url for date 20190719 is done
+[2019-08-21 17:18:40,690] - TradeX.__name__ - INFO - Insert HK trade data for date 20190719 is done
+[2019-08-21 17:18:40,690] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:40,690] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:40,692] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:40,692] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:40,694] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:40,695] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:40,697] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:40,697] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:49,568] - TradeX.__name__ - INFO - Get data from url for date 20190722 is done
+[2019-08-21 17:18:49,578] - TradeX.__name__ - INFO - Insert HK trade data for date 20190722 is done
+[2019-08-21 17:18:49,578] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:49,578] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:49,580] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:49,581] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:49,820] - TradeX.__name__ - INFO - Get data from url for date 20190723 is done
+[2019-08-21 17:18:49,831] - TradeX.__name__ - INFO - Insert HK trade data for date 20190723 is done
+[2019-08-21 17:18:49,831] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:49,831] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:49,833] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:49,834] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:50,109] - TradeX.__name__ - INFO - Get data from url for date 20190724 is done
+[2019-08-21 17:18:50,120] - TradeX.__name__ - INFO - Insert HK trade data for date 20190724 is done
+[2019-08-21 17:18:50,120] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:50,120] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:50,122] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:50,122] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:50,611] - TradeX.__name__ - INFO - Get data from url for date 20190725 is done
+[2019-08-21 17:18:50,621] - TradeX.__name__ - INFO - Insert HK trade data for date 20190725 is done
+[2019-08-21 17:18:50,622] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:50,622] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:50,624] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:50,624] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:50,848] - TradeX.__name__ - INFO - Get data from url for date 20190726 is done
+[2019-08-21 17:18:50,859] - TradeX.__name__ - INFO - Insert HK trade data for date 20190726 is done
+[2019-08-21 17:18:50,860] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:50,860] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:50,862] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:50,862] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:50,864] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:50,865] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:50,867] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:50,867] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:51,123] - TradeX.__name__ - INFO - Get data from url for date 20190729 is done
+[2019-08-21 17:18:51,133] - TradeX.__name__ - INFO - Insert HK trade data for date 20190729 is done
+[2019-08-21 17:18:51,133] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:51,133] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:51,136] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:51,136] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:51,585] - TradeX.__name__ - INFO - Get data from url for date 20190730 is done
+[2019-08-21 17:18:51,595] - TradeX.__name__ - INFO - Insert HK trade data for date 20190730 is done
+[2019-08-21 17:18:51,596] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:51,596] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:51,598] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:51,598] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:51,785] - TradeX.__name__ - INFO - Get data from url for date 20190731 is done
+[2019-08-21 17:18:51,794] - TradeX.__name__ - INFO - Insert HK trade data for date 20190731 is done
+[2019-08-21 17:18:51,795] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:51,795] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:51,797] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:51,797] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:52,040] - TradeX.__name__ - INFO - Get data from url for date 20190801 is done
+[2019-08-21 17:18:52,052] - TradeX.__name__ - INFO - Insert HK trade data for date 20190801 is done
+[2019-08-21 17:18:52,052] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:52,052] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:52,054] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:52,055] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:52,291] - TradeX.__name__ - INFO - Get data from url for date 20190802 is done
+[2019-08-21 17:18:52,302] - TradeX.__name__ - INFO - Insert HK trade data for date 20190802 is done
+[2019-08-21 17:18:52,302] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:52,302] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:52,305] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:52,305] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:52,308] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:52,308] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:52,310] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:52,310] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:52,750] - TradeX.__name__ - INFO - Get data from url for date 20190805 is done
+[2019-08-21 17:18:52,761] - TradeX.__name__ - INFO - Insert HK trade data for date 20190805 is done
+[2019-08-21 17:18:52,762] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:52,762] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:52,764] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:52,764] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:53,004] - TradeX.__name__ - INFO - Get data from url for date 20190806 is done
+[2019-08-21 17:18:53,015] - TradeX.__name__ - INFO - Insert HK trade data for date 20190806 is done
+[2019-08-21 17:18:53,015] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:53,015] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:53,018] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:53,018] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:53,293] - TradeX.__name__ - INFO - Get data from url for date 20190807 is done
+[2019-08-21 17:18:53,301] - TradeX.__name__ - INFO - Insert HK trade data for date 20190807 is done
+[2019-08-21 17:18:53,301] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:53,301] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:53,304] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:53,304] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:53,563] - TradeX.__name__ - INFO - Get data from url for date 20190808 is done
+[2019-08-21 17:18:53,573] - TradeX.__name__ - INFO - Insert HK trade data for date 20190808 is done
+[2019-08-21 17:18:53,573] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:53,573] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:53,576] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:53,576] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:53,881] - TradeX.__name__ - INFO - Get data from url for date 20190809 is done
+[2019-08-21 17:18:53,892] - TradeX.__name__ - INFO - Insert HK trade data for date 20190809 is done
+[2019-08-21 17:18:53,892] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:53,892] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:53,894] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:53,894] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:53,897] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:53,897] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:53,899] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:53,899] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:54,121] - TradeX.__name__ - INFO - Get data from url for date 20190812 is done
+[2019-08-21 17:18:54,133] - TradeX.__name__ - INFO - Insert HK trade data for date 20190812 is done
+[2019-08-21 17:18:54,133] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:54,134] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:54,136] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:54,136] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:54,463] - TradeX.__name__ - INFO - Get data from url for date 20190813 is done
+[2019-08-21 17:18:54,472] - TradeX.__name__ - INFO - Insert HK trade data for date 20190813 is done
+[2019-08-21 17:18:54,472] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:54,473] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:54,475] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:54,475] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:54,922] - TradeX.__name__ - INFO - Get data from url for date 20190814 is done
+[2019-08-21 17:18:54,930] - TradeX.__name__ - INFO - Insert HK trade data for date 20190814 is done
+[2019-08-21 17:18:54,930] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:54,930] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:54,933] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:54,933] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:55,130] - TradeX.__name__ - INFO - Get data from url for date 20190815 is done
+[2019-08-21 17:18:55,139] - TradeX.__name__ - INFO - Insert HK trade data for date 20190815 is done
+[2019-08-21 17:18:55,140] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:55,140] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:55,142] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:55,142] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:55,344] - TradeX.__name__ - INFO - Get data from url for date 20190816 is done
+[2019-08-21 17:18:55,354] - TradeX.__name__ - INFO - Insert HK trade data for date 20190816 is done
+[2019-08-21 17:18:55,354] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:55,354] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:55,356] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:55,356] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:55,358] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:55,359] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-21 17:18:55,361] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-21 17:18:55,361] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-21 17:18:56,621] - TradeX.__name__ - INFO - Get data from url for date 20190819 is done
+[2019-08-21 17:18:56,629] - TradeX.__name__ - INFO - Insert HK trade data for date 20190819 is done
+[2019-08-21 17:18:56,630] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-21 17:18:56,630] - TradeX.__name__ - INFO - Exit insert_data_by_period
+[2019-08-21 17:18:56,630] - TradeX - INFO - Main function ends here
+[2019-08-21 18:10:52,475] - TradeX - INFO - Main function starts here
+[2019-08-21 18:10:52,902] - TradeX.GetDataFromTushare - INFO - refresh holiday data successfully in TradeDB
+[2019-08-21 18:11:34,655] - TradeX.GetDataFromTushare - INFO - refresh refresh_season_report_data successfully in TradeDB
+[2019-08-21 18:11:35,076] - TradeX.GetDataFromTushare - INFO - refresh refresh_stock_basics_data successfully in TradeDB
+[2019-08-21 18:11:35,076] - TradeX - INFO - Main function ends here
+[2019-08-22 09:06:22,281] - TradeX - INFO - Main function starts here
+[2019-08-22 09:06:22,281] - TradeX.GetDataFromTushare - INFO - Enter refresh_market_data
+[2019-08-22 09:07:22,551] - TradeX.GetDataFromTushare - INFO - Exit refresh_market_data
+[2019-08-22 09:07:22,552] - TradeX - INFO - Main function ends here
+[2019-08-27 14:41:27,600] - TradeX - INFO - Main function starts here
+[2019-08-27 14:41:28,105] - TradeX.GetDataFromTushare - INFO - refresh holiday data successfully in TradeDB
+[2019-08-27 14:42:16,610] - TradeX.GetDataFromTushare - INFO - refresh refresh_season_report_data successfully in TradeDB
+[2019-08-27 14:42:16,960] - TradeX.GetDataFromTushare - INFO - refresh refresh_stock_basics_data successfully in TradeDB
+[2019-08-27 14:42:16,961] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-27 14:42:17,434] - TradeX.__name__ - INFO - Get data from url for date 20180827 is done
+[2019-08-27 14:42:17,437] - TradeX.__name__ - INFO - Insert HK trade data for date 20180827 is done
+[2019-08-27 14:42:17,437] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-27 14:42:17,437] - TradeX.GetDataFromTushare - INFO - Enter refresh_market_data
+[2019-08-27 14:42:55,506] - TradeX.GetDataFromTushare - INFO - Exit refresh_market_data
+[2019-08-27 14:42:55,507] - TradeX - INFO - Main function ends here
+[2019-08-27 14:51:46,233] - TradeX - INFO - Main function starts here
+[2019-08-27 14:51:46,233] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-27 14:51:46,648] - TradeX.__name__ - INFO - Get data from url for date 20190827 is done
+[2019-08-27 14:51:46,651] - TradeX.__name__ - INFO - Insert HK trade data for date 20190827 is done
+[2019-08-27 14:51:46,651] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-27 14:51:46,651] - TradeX - INFO - Main function ends here
+[2019-08-27 14:55:00,110] - TradeX - INFO - Main function starts here
+[2019-08-27 14:55:00,110] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-27 14:55:00,381] - TradeX.__name__ - INFO - Get data from url for date 20190826 is done
+[2019-08-27 14:55:00,400] - TradeX.__name__ - INFO - Insert HK trade data for date 20190826 is done
+[2019-08-27 14:55:00,400] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-27 14:55:00,400] - TradeX - INFO - Main function ends here
+[2019-08-27 14:55:32,371] - TradeX - INFO - Main function starts here
+[2019-08-27 14:55:32,372] - TradeX.__name__ - INFO - Enter insert_data_by_period
+[2019-08-27 14:55:32,377] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-27 14:55:32,380] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-27 14:55:32,380] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-27 14:55:32,691] - TradeX.__name__ - INFO - Get data from url for date 20190820 is done
+[2019-08-27 14:55:32,702] - TradeX.__name__ - INFO - Insert HK trade data for date 20190820 is done
+[2019-08-27 14:55:32,702] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-27 14:55:32,702] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-27 14:55:32,705] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-27 14:55:32,705] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-27 14:55:34,323] - TradeX.__name__ - INFO - Get data from url for date 20190821 is done
+[2019-08-27 14:55:34,334] - TradeX.__name__ - INFO - Insert HK trade data for date 20190821 is done
+[2019-08-27 14:55:34,335] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-27 14:55:34,335] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-27 14:55:34,337] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-27 14:55:34,337] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-27 14:55:34,572] - TradeX.__name__ - INFO - Get data from url for date 20190822 is done
+[2019-08-27 14:55:34,583] - TradeX.__name__ - INFO - Insert HK trade data for date 20190822 is done
+[2019-08-27 14:55:34,584] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-27 14:55:34,584] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-27 14:55:34,587] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-27 14:55:34,587] - TradeX.__name__ - INFO - Enter insert_data_by_date
+[2019-08-27 14:55:34,925] - TradeX.__name__ - INFO - Get data from url for date 20190823 is done
+[2019-08-27 14:55:34,934] - TradeX.__name__ - INFO - Insert HK trade data for date 20190823 is done
+[2019-08-27 14:55:34,934] - TradeX.__name__ - INFO - Exit insert_data_by_date
+[2019-08-27 14:55:34,934] - TradeX.__name__ - INFO - Enter is_deal_date
+[2019-08-27 14:55:34,938] - TradeX.__name__ - INFO - Exit is_deal_date
+[2019-08-27 14:55:34,938] - TradeX.__name__ - INFO - Exit insert_data_by_period
+[2019-08-27 14:55:34,938] - TradeX - INFO - Main function ends here
+[2019-08-28 16:04:25,209] - TradeX - INFO - Main function starts here
+[2019-08-28 16:04:25,210] - TradeX.GetDataFromTushare - INFO - startdate: 20190101
+[2019-08-28 16:04:25,210] - TradeX.GetDataFromTushare - INFO - enddate: 2090827
+[2019-08-28 16:04:26,642] - TradeX.GetDataFromTushare - INFO - Get 600036.SH Daily data is done
+[2019-08-28 16:04:27,772] - TradeX.GetDataFromTushare - INFO - Get 600104.SH Daily data is done
+[2019-08-28 16:04:28,941] - TradeX.GetDataFromTushare - INFO - Get 600276.SH Daily data is done
+[2019-08-28 16:04:30,073] - TradeX.GetDataFromTushare - INFO - Get 600519.SH Daily data is done
+[2019-08-28 16:04:31,207] - TradeX.GetDataFromTushare - INFO - Get 600690.SH Daily data is done
+[2019-08-28 16:04:32,354] - TradeX.GetDataFromTushare - INFO - Get 601166.SH Daily data is done
+[2019-08-28 16:04:33,491] - TradeX.GetDataFromTushare - INFO - Get 601318.SH Daily data is done
+[2019-08-28 16:04:34,626] - TradeX.GetDataFromTushare - INFO - Get 601398.SH Daily data is done
+[2019-08-28 16:04:35,775] - TradeX.GetDataFromTushare - INFO - Get 601688.SH Daily data is done
+[2019-08-28 16:04:36,919] - TradeX.GetDataFromTushare - INFO - Get 601888.SH Daily data is done
+[2019-08-28 16:05:40,788] - TradeX - INFO - Main function starts here
+[2019-08-28 16:05:40,789] - TradeX.GetDataFromTushare - INFO - startdate: 20190101
+[2019-08-28 16:05:40,789] - TradeX.GetDataFromTushare - INFO - enddate: 2090827
+[2019-08-28 16:05:42,040] - TradeX.GetDataFromTushare - INFO - Get 600036.SH Daily data is done
+[2019-08-28 16:05:43,416] - TradeX.GetDataFromTushare - INFO - Get 600104.SH Daily data is done
+[2019-08-28 16:05:44,760] - TradeX.GetDataFromTushare - INFO - Get 600276.SH Daily data is done
+[2019-08-28 16:05:46,076] - TradeX.GetDataFromTushare - INFO - Get 600519.SH Daily data is done
+[2019-08-28 16:05:47,429] - TradeX.GetDataFromTushare - INFO - Get 600690.SH Daily data is done
+[2019-08-28 16:05:48,851] - TradeX.GetDataFromTushare - INFO - Get 601166.SH Daily data is done
+[2019-08-28 16:05:50,225] - TradeX.GetDataFromTushare - INFO - Get 601318.SH Daily data is done
+[2019-08-28 16:05:51,595] - TradeX.GetDataFromTushare - INFO - Get 601398.SH Daily data is done
+[2019-08-28 16:05:52,989] - TradeX.GetDataFromTushare - INFO - Get 601688.SH Daily data is done
+[2019-08-28 16:05:54,306] - TradeX.GetDataFromTushare - INFO - Get 601888.SH Daily data is done
+[2019-08-28 16:05:55,616] - TradeX.GetDataFromTushare - INFO - Get 600009.SH Daily data is done
+[2019-08-28 16:05:56,991] - TradeX.GetDataFromTushare - INFO - Get 600048.SH Daily data is done
+[2019-08-28 16:05:58,374] - TradeX.GetDataFromTushare - INFO - Get 600050.SH Daily data is done
+[2019-08-28 16:05:59,754] - TradeX.GetDataFromTushare - INFO - Get 600887.SH Daily data is done
+[2019-08-28 16:06:01,072] - TradeX.GetDataFromTushare - INFO - Get 600019.SH Daily data is done
+[2019-08-28 16:06:02,458] - TradeX.GetDataFromTushare - INFO - Get 600309.SH Daily data is done
+[2019-08-28 16:06:03,795] - TradeX.GetDataFromTushare - INFO - Get 600585.SH Daily data is done
+[2019-08-28 16:06:05,126] - TradeX.GetDataFromTushare - INFO - Get 600600.SH Daily data is done
+[2019-08-28 16:06:06,480] - TradeX.GetDataFromTushare - INFO - Get 600066.SH Daily data is done
+[2019-08-28 16:06:07,855] - TradeX.GetDataFromTushare - INFO - Get 600900.SH Daily data is done
+[2019-08-28 16:06:09,253] - TradeX.GetDataFromTushare - INFO - Get 600176.SH Daily data is done
+[2019-08-28 16:06:10,658] - TradeX.GetDataFromTushare - INFO - Get 600030.SH Daily data is done
+[2019-08-28 16:06:11,978] - TradeX.GetDataFromTushare - INFO - Get 601601.SH Daily data is done
+[2019-08-28 16:06:13,340] - TradeX.GetDataFromTushare - INFO - Get 601628.SH Daily data is done
+[2019-08-28 16:06:14,681] - TradeX.GetDataFromTushare - INFO - Get 601668.SH Daily data is done
+[2019-08-28 16:06:16,021] - TradeX.GetDataFromTushare - INFO - Get 603288.SH Daily data is done
+[2019-08-28 16:06:17,352] - TradeX.GetDataFromTushare - INFO - Get 600703.SH Daily data is done
+[2019-08-28 16:06:18,658] - TradeX.GetDataFromTushare - INFO - Get 601988.SH Daily data is done
+[2019-08-28 16:06:20,017] - TradeX.GetDataFromTushare - INFO - Get 600004.SH Daily data is done
+[2019-08-28 16:06:21,353] - TradeX.GetDataFromTushare - INFO - Get 601006.SH Daily data is done
+[2019-08-28 16:06:22,663] - TradeX.GetDataFromTushare - INFO - Get 600000.SH Daily data is done
+[2019-08-28 16:06:23,989] - TradeX.GetDataFromTushare - INFO - Get 601012.SH Daily data is done
+[2019-08-28 16:06:25,317] - TradeX.GetDataFromTushare - INFO - Get 600298.SH Daily data is done
+[2019-08-28 16:06:26,646] - TradeX.GetDataFromTushare - INFO - Get 601766.SH Daily data is done
+[2019-08-28 16:06:28,011] - TradeX.GetDataFromTushare - INFO - Get 603589.SH Daily data is done
+[2019-08-28 16:06:29,478] - TradeX.GetDataFromTushare - INFO - Get 600028.SH Daily data is done
+[2019-08-28 16:06:30,890] - TradeX.GetDataFromTushare - INFO - Get 600406.SH Daily data is done
+[2019-08-28 16:06:32,177] - TradeX.GetDataFromTushare - INFO - Get 600741.SH Daily data is done
+[2019-08-28 16:06:33,546] - TradeX.GetDataFromTushare - INFO - Get 600660.SH Daily data is done
+[2019-08-28 16:06:34,887] - TradeX.GetDataFromTushare - INFO - Get 601328.SH Daily data is done
+[2019-08-28 16:06:36,218] - TradeX.GetDataFromTushare - INFO - Get 600016.SH Daily data is done
+[2019-08-28 16:06:37,531] - TradeX.GetDataFromTushare - INFO - Get 601288.SH Daily data is done
+[2019-08-28 16:06:38,915] - TradeX.GetDataFromTushare - INFO - Get 600196.SH Daily data is done
+[2019-08-28 16:06:40,283] - TradeX.GetDataFromTushare - INFO - Get 601989.SH Daily data is done
+[2019-08-28 16:06:41,621] - TradeX.GetDataFromTushare - INFO - Get 600208.SH Daily data is done
+[2019-08-28 16:06:42,947] - TradeX.GetDataFromTushare - INFO - Get 601985.SH Daily data is done
+[2019-08-28 16:06:44,328] - TradeX.GetDataFromTushare - INFO - Get 601933.SH Daily data is done
+[2019-08-28 16:06:45,645] - TradeX.GetDataFromTushare - INFO - Get 601336.SH Daily data is done
+[2019-08-28 16:06:46,968] - TradeX.GetDataFromTushare - INFO - Get 601699.SH Daily data is done
+[2019-08-28 16:06:48,287] - TradeX.GetDataFromTushare - INFO - Get 600667.SH Daily data is done
+[2019-08-28 16:06:49,628] - TradeX.GetDataFromTushare - INFO - Get 601939.SH Daily data is done
+[2019-08-28 16:06:50,945] - TradeX.GetDataFromTushare - INFO - Get 600570.SH Daily data is done
+[2019-08-28 16:06:52,299] - TradeX.GetDataFromTushare - INFO - Get 600547.SH Daily data is done
+[2019-08-28 16:06:53,627] - TradeX.GetDataFromTushare - INFO - Get 600779.SH Daily data is done
+[2019-08-28 16:06:54,971] - TradeX.GetDataFromTushare - INFO - Get 603993.SH Daily data is done
+[2019-08-28 16:06:56,265] - TradeX.GetDataFromTushare - INFO - Get 601229.SH Daily data is done
+[2019-08-28 16:06:57,618] - TradeX.GetDataFromTushare - INFO - Get 600867.SH Daily data is done
+[2019-08-28 16:06:58,971] - TradeX.GetDataFromTushare - INFO - Get 600837.SH Daily data is done
+[2019-08-28 16:07:00,381] - TradeX.GetDataFromTushare - INFO - Get 601186.SH Daily data is done
+[2019-08-28 16:07:01,866] - TradeX.GetDataFromTushare - INFO - Get 600031.SH Daily data is done
+[2019-08-28 16:07:03,226] - TradeX.GetDataFromTushare - INFO - Get 600808.SH Daily data is done
+[2019-08-28 16:07:04,569] - TradeX.GetDataFromTushare - INFO - Get 600029.SH Daily data is done
+[2019-08-28 16:07:05,859] - TradeX.GetDataFromTushare - INFO - Get 600340.SH Daily data is done
+[2019-08-28 16:07:07,187] - TradeX.GetDataFromTushare - INFO - Get 600518.SH Daily data is done
+[2019-08-28 16:07:08,538] - TradeX.GetDataFromTushare - INFO - Get 600438.SH Daily data is done
+[2019-08-28 16:07:09,859] - TradeX.GetDataFromTushare - INFO - Get 600201.SH Daily data is done
+[2019-08-28 16:07:11,223] - TradeX.GetDataFromTushare - INFO - Get 601211.SH Daily data is done
+[2019-08-28 16:07:12,533] - TradeX.GetDataFromTushare - INFO - Get 601390.SH Daily data is done
+[2019-08-28 16:07:13,869] - TradeX.GetDataFromTushare - INFO - Get 600352.SH Daily data is done
+[2019-08-28 16:07:15,202] - TradeX.GetDataFromTushare - INFO - Get 601225.SH Daily data is done
+[2019-08-28 16:07:16,948] - TradeX.GetDataFromTushare - INFO - Get 600183.SH Daily data is done
+[2019-08-28 16:07:18,404] - TradeX.GetDataFromTushare - INFO - Get 600111.SH Daily data is done
+[2019-08-28 16:07:19,772] - TradeX.GetDataFromTushare - INFO - Get 601088.SH Daily data is done
+[2019-08-28 16:07:21,109] - TradeX.GetDataFromTushare - INFO - Get 601169.SH Daily data is done
+[2019-08-28 16:07:22,499] - TradeX.GetDataFromTushare - INFO - Get 601899.SH Daily data is done
+[2019-08-28 16:07:23,887] - TradeX.GetDataFromTushare - INFO - Get 601155.SH Daily data is done
+[2019-08-28 16:07:25,276] - TradeX.GetDataFromTushare - INFO - Get 600018.SH Daily data is done
+[2019-08-28 16:07:26,605] - TradeX.GetDataFromTushare - INFO - Get 600588.SH Daily data is done
+[2019-08-28 16:07:27,978] - TradeX.GetDataFromTushare - INFO - Get 601138.SH Daily data is done
+[2019-08-28 16:07:29,548] - TradeX.GetDataFromTushare - INFO - Get 603259.SH Daily data is done
+[2019-08-28 16:07:31,030] - TradeX.GetDataFromTushare - INFO - Get 603338.SH Daily data is done
+[2019-08-28 16:07:32,352] - TradeX.GetDataFromTushare - INFO - Get 600536.SH Daily data is done
+[2019-08-28 16:07:32,352] - TradeX - INFO - Main function ends here
+[2019-08-29 13:37:40,767] - TradeX - INFO - Main function starts here
+[2019-08-29 13:37:40,767] - TradeX.GetDataFromTushare - INFO - startdate: 20190101
+[2019-08-29 13:37:40,767] - TradeX.GetDataFromTushare - INFO - enddate: 2090827
+[2019-08-29 13:37:41,944] - TradeX.GetDataFromTushare - INFO - Get 600036.SH Daily data is done
+[2019-08-29 13:37:43,063] - TradeX.GetDataFromTushare - INFO - Get 600104.SH Daily data is done
+[2019-08-29 13:37:44,188] - TradeX.GetDataFromTushare - INFO - Get 600276.SH Daily data is done
+[2019-08-29 13:37:45,308] - TradeX.GetDataFromTushare - INFO - Get 600519.SH Daily data is done
+[2019-08-29 13:37:46,435] - TradeX.GetDataFromTushare - INFO - Get 600690.SH Daily data is done
+[2019-08-29 13:45:47,634] - TradeX - INFO - Main function starts here
+[2019-08-29 13:45:47,634] - TradeX.GetDataFromTushare - INFO - startdate: 20190101
+[2019-08-29 13:45:47,635] - TradeX.GetDataFromTushare - INFO - enddate: 2090827
+[2019-08-29 13:45:48,830] - TradeX.GetDataFromTushare - INFO - Get 600036.SH Daily data is done
+[2019-08-29 13:45:49,991] - TradeX.GetDataFromTushare - INFO - Get 600104.SH Daily data is done
+[2019-08-29 14:04:53,028] - TradeX - INFO - Main function starts here
+[2019-08-29 14:04:53,028] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:05:18,584] - TradeX - INFO - Main function starts here
+[2019-08-29 14:05:18,584] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:06:50,645] - TradeX - INFO - Main function starts here
+[2019-08-29 14:06:50,645] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:08:23,058] - TradeX - INFO - Main function starts here
+[2019-08-29 14:08:23,058] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:10:23,545] - TradeX - INFO - Main function starts here
+[2019-08-29 14:10:23,545] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:11:01,109] - TradeX - INFO - Main function starts here
+[2019-08-29 14:11:01,109] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:13:03,072] - TradeX - INFO - Main function starts here
+[2019-08-29 14:13:03,072] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:14:04,697] - TradeX - INFO - Main function starts here
+[2019-08-29 14:14:04,697] - TradeX.GetDataFromTushare - INFO - startdate: 20190101
+[2019-08-29 14:14:04,697] - TradeX.GetDataFromTushare - INFO - enddate: 2090827
+[2019-08-29 14:14:10,688] - TradeX.GetDataFromTushare - INFO - Get 600036.SH Daily data is done
+[2019-08-29 14:14:11,791] - TradeX.GetDataFromTushare - INFO - Get 600104.SH Daily data is done
+[2019-08-29 14:14:13,081] - TradeX.GetDataFromTushare - INFO - Get 600276.SH Daily data is done
+[2019-08-29 14:14:14,320] - TradeX.GetDataFromTushare - INFO - Get 600519.SH Daily data is done
+[2019-08-29 14:14:15,565] - TradeX.GetDataFromTushare - INFO - Get 600690.SH Daily data is done
+[2019-08-29 14:14:19,697] - TradeX.GetDataFromTushare - INFO - Get 601166.SH Daily data is done
+[2019-08-29 14:14:20,802] - TradeX.GetDataFromTushare - INFO - Get 601318.SH Daily data is done
+[2019-08-29 14:14:21,873] - TradeX.GetDataFromTushare - INFO - Get 601398.SH Daily data is done
+[2019-08-29 14:15:37,735] - TradeX - INFO - Main function starts here
+[2019-08-29 14:15:37,736] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:17:29,360] - TradeX - INFO - Main function starts here
+[2019-08-29 14:17:29,360] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:25:48,459] - TradeX - INFO - Main function starts here
+[2019-08-29 14:25:48,460] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:25:50,963] - TradeX.GetDataFromTushare - INFO - MA test is done
+[2019-08-29 14:25:50,963] - TradeX - INFO - Main function ends here
+[2019-08-29 14:27:24,477] - TradeX - INFO - Main function starts here
+[2019-08-29 14:27:24,477] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:27:24,918] - TradeX.GetDataFromTushare - INFO - MA test is done
+[2019-08-29 14:27:24,919] - TradeX - INFO - Main function ends here
+[2019-08-29 14:29:18,112] - TradeX - INFO - Main function starts here
+[2019-08-29 14:29:18,112] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 14:29:18,801] - TradeX.GetDataFromTushare - INFO - MA test is done
+[2019-08-29 14:29:18,801] - TradeX - INFO - Main function ends here
+[2019-08-29 15:19:28,177] - TradeX - INFO - Main function starts here
+[2019-08-29 15:19:28,178] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 15:19:28,422] - TradeX - INFO - Main function ends here
+[2019-08-29 15:20:28,015] - TradeX - INFO - Main function starts here
+[2019-08-29 15:20:28,015] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 15:20:28,170] - TradeX - INFO - Main function ends here
+[2019-08-29 15:20:36,826] - TradeX - INFO - Main function starts here
+[2019-08-29 15:20:36,827] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 15:20:37,042] - TradeX - INFO - Main function ends here
+[2019-08-29 16:09:45,721] - TradeX - INFO - Main function starts here
+[2019-08-29 16:09:45,721] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 16:09:46,216] - TradeX.GetDataFromTushare - INFO - testma finished
+[2019-08-29 16:09:46,217] - TradeX - INFO - Main function ends here
+[2019-08-29 16:12:02,461] - TradeX - INFO - Main function starts here
+[2019-08-29 16:12:02,461] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 16:12:02,742] - TradeX.GetDataFromTushare - INFO - testma finished
+[2019-08-29 16:12:02,742] - TradeX - INFO - Main function ends here
+[2019-08-29 16:27:06,523] - TradeX - INFO - Main function starts here
+[2019-08-29 16:27:06,523] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 16:27:06,900] - TradeX.GetDataFromTushare - INFO - testma finished
+[2019-08-29 16:27:06,900] - TradeX - INFO - Main function ends here
+[2019-08-29 16:27:28,598] - TradeX - INFO - Main function starts here
+[2019-08-29 16:27:28,598] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 16:27:28,949] - TradeX.GetDataFromTushare - INFO - testma finished
+[2019-08-29 16:27:28,949] - TradeX - INFO - Main function ends here
+[2019-08-29 16:28:25,954] - TradeX - INFO - Main function starts here
+[2019-08-29 16:28:25,954] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 16:28:26,542] - TradeX.GetDataFromTushare - INFO - testma finished
+[2019-08-29 16:28:26,542] - TradeX - INFO - Main function ends here
+[2019-08-29 16:29:12,256] - TradeX - INFO - Main function starts here
+[2019-08-29 16:29:12,257] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-08-29 16:29:12,525] - TradeX.GetDataFromTushare - INFO - testma finished
+[2019-08-29 16:29:12,525] - TradeX - INFO - Main function ends here
+[2019-09-05 13:03:39,819] - TradeX - INFO - Main function starts here
+[2019-09-05 13:03:39,820] - TradeX.GetDataFromTushare - INFO - testma started
+[2019-09-05 13:03:40,087] - TradeX.GetDataFromTushare - INFO - testma finished
+[2019-09-05 13:03:40,088] - TradeX - INFO - Main function ends here
